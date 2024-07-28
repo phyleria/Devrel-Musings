@@ -21,17 +21,17 @@ const Home = () => {
               <ul className="flex space-x-14 text-lg">
                 {" "}
                 <li>
-                  <a href="#learnings" className="hover:text-gray-600">
+                  <a href="/Devrel" className="hover:text-gray-600">
                     Learnings from DevRel
                   </a>
                 </li>
                 <li>
-                  <a href="#musings" className="hover:text-gray-600">
+                  <a href="/Musings" className="hover:text-gray-600">
                     Musings
                   </a>
                 </li>
                 <li>
-                  <a href="#music" className="hover:text-gray-600">
+                  <a href="/Music" className="hover:text-gray-600">
                     Music
                   </a>
                 </li>
