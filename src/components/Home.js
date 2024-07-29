@@ -80,17 +80,17 @@ const Home = () => {
               about our product and integrate with it. I love combining my
               passion for technology and community building in my current role.
               Throughout my journey, I've worked with several industries and
-              platforms, which has helped me understand and appreciate the tech
-              & innovation. I enjoy sharing my knowledge and experiences with
-              the community at events and through my writings. Check out some of
-              the presentations and articles I’ve contributed to on my Learnings
-              from DevRel Page.
+              platforms, which has helped me understand and appreciate tech &
+              innovation. I enjoy sharing my knowledge and experiences with
+              communities at events and through my writings. Check out some of
+              the presentations and articles I’ve contributed to on my
+              'Learnings from DevRel' Page.
               <br />
               <br />
-              Outside of work, I am very committed to my music career. I love
-              singing and learning new instruments. I share my performances and
-              covers through videos and reels. This helps me connect with people
-              who appreciate music like I do.
+              Outside of work, I am trying to be committed to my music career. I
+              love singing and learning new instruments. I share my performances
+              and covers through videos and reels. This helps me connect with
+              people who appreciate music like I do.
               <br />
               <br />
               Oh, and finally my ideal retirement plan is to become a writer
