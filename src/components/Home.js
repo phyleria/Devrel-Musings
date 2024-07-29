@@ -81,9 +81,9 @@ const Home = () => {
               passion for technology and community building in my current role.
               Throughout my journey, I've worked with several industries and
               platforms, which has helped me understand and appreciate the tech
-              world. I enjoy sharing my knowledge and experiences with the
-              community at events and through my writings. Check out some of the
-              presentations and articles I’ve contributed to on my Learnings
+              & innovation. I enjoy sharing my knowledge and experiences with
+              the community at events and through my writings. Check out some of
+              the presentations and articles I’ve contributed to on my Learnings
               from DevRel Page.
               <br />
               <br />
