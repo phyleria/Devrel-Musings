@@ -151,9 +151,9 @@ export const DX = () => (
           simplified the getting started guide, ensuring that all necessary
           information was easily accessible. I also updated the glossary,
           provided clear explanations for the endpoints, introduced a changelog,
-          and identified and fixed bugs in some endpoints. These improvements
-          allowed developers to find the information they needed quickly and
-          easily, leading to a smoother experience.
+          and identified and got bugs fixed in some endpoints. These
+          improvements allowed developers to find the information they needed
+          quickly and easily, leading to a smoother experience.
           <br />
           <br />
         </li>
