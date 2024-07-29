@@ -160,11 +160,7 @@ export const DX = () => (
         <li>
           <strong>Developing Learning Materials: </strong>
           This is what I am currently working on, and it honestly requires a lot
-          of patience. I am developing integration guides for all of our
-          endpoints and initially overestimated how quickly I could complete all
-          the content, including written tutorials and videos. The goal is to
-          create a variety of learning materials tailored to different learning
-          styles. I created a{" "}
+          of patience. I had started by creating a{" "}
           <a
             href="https://chimoney.io/api-use-cases/"
             className="text-blue-500 underline"
@@ -173,10 +169,14 @@ export const DX = () => (
           </a>{" "}
           that includes step-by-step integration guides to help developers
           quickly understand how to incorporate Chimoney's APIs into their
-          projects using real-world examples. I believe this helps shortens the
-          process of understanding how exactly the endpoints work and how to
-          integrate them which all ties back to developer experience and
-          shortening integration times.
+          projects using real-world examples. Currently, I am developing
+          integration guides for all of our endpoints and initially
+          overestimated how quickly I could complete all the content, including
+          written tutorials and videos. The goal is to create a variety of
+          learning materials tailored to different learning styles. These
+          resources help shorten the process of understanding how exactly the
+          endpoints work and how to integrate them which all ties back to
+          developer experience and shortening integration times.
           <br />
           <br />
         </li>
