@@ -71,9 +71,8 @@ const Home = () => {
               Hi there stranger or friend😉 Welcome to my website. A little bit
               about me; I love artsy stuff and have a deep love for music, alone
               time and connecting with people (sometimes). Professionally,
-              helping others achieve their goals makes me very happy. I try to
-              be a guide, a teacher, and a mentor to others whenever I can.
-              Maybe there’s something I can help you with.
+              helping others achieve their goals makes me very happy. Maybe
+              there’s something I can help you with.
               <br />
               <br />
               Currently, I’m a Community and Developer Relations Manager at

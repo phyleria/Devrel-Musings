@@ -47,7 +47,8 @@ const Musings = () => {
 
         <section className="p-6 rounded-lg shadow-md mb-10">
           <p className="text-lg mt-4 text-gray-600">
-            This blog is my creative outlet, where I share random stuff I think.
+            This blog is my creative outlet, where I share random stuff I think
+            about.
           </p>
         </section>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 p-4">
