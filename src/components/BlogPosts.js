@@ -69,7 +69,7 @@ export const DX = () => (
         time, I learned more and got better at handling my tasks. While building
         a community is important in DevRel, and it feels like I should have
         started by writing on it, I've been focusing more on Developer
-        Experience lately and so I felt more impelled to write about it. If
+        Experience lately and so I felt more compelled to write about it. If
         you're interested in learning about DX, then this blog is for you.
         <br />
         <br />
