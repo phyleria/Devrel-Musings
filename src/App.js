@@ -5,7 +5,7 @@ import ArticlesGrid from "./components/ArticlesGrid";
 import Devrel from "./components/Devrel";
 import Musings from "./components/Musings";
 import Music from "./components/Music";
-import { FaithChanges } from "./components/BlogPosts";
+import { FaithChanges, DX } from "./components/BlogPosts";
 
 function App() {
   return (
@@ -17,6 +17,7 @@ function App() {
         <Route path="/Musings" element={<Musings />} />
         <Route path="/Music" element={<Music />} />
         <Route path="/blog/faith-changes" element={<FaithChanges />} />
+        <Route path="/blog/DX" element={<DX />} />
       </Routes>
     </Router>
   );
