@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import "../App.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
@@ -8,10 +8,22 @@ import {
 } from "@fortawesome/free-brands-svg-icons";
 
 const Home = () => {
+  // State to handle the visibility of the popup
+  const [showPopup, setShowPopup] = useState(false);
+
+  // Function to handle the button click and show the popup
+  const handleTalkClick = () => {
+    setShowPopup(true);
+  };
+
+  // Function to close the popup
+  const closePopup = () => {
+    setShowPopup(false);
+  };
+
   return (
     <div className="Home">
       <div className="max-w-5xl mx-auto p-5 bg-[#f6f4ef] mt-5 mb-20 rounded-lg shadow-lg">
-        {" "}
         <header className="flex flex-wrap justify-between items-center mb-10 p-5">
           <div className="flex flex-col md:flex-row items-start md:items-center space-y-4 md:space-y-0 md:space-x-10 w-full md:w-auto">
             <a href="/" className="text-2xl font-bold mr-0 md:mr-20">
@@ -41,7 +53,7 @@ const Home = () => {
             <button className="mt-4 md:mt-0 px-4 py-2 border border-black hover:bg-gray-100 rounded-full">
               See my work
             </button>
-            </a>
+          </a>
         </header>
         <main>
           <section className="text-center mb-10">
@@ -61,7 +73,10 @@ const Home = () => {
               "Building communities and passion around products"
             </h3>
             <div className="flex justify-center space-x-5">
-              <button className="px-4 py-2 border border-black hover:bg-gray-100 hover:text-black rounded-full bg-black text-white">
+              <button
+                onClick={handleTalkClick}
+                className="px-4 py-2 border border-black hover:bg-gray-100 hover:text-black rounded-full bg-black text-white"
+              >
                 Talk with me
               </button>
             </div>
@@ -130,6 +145,29 @@ const Home = () => {
           </section>
         </main>
       </div>
+
+      {showPopup && (
+        <div className="fixed inset-0 flex items-center justify-center bg-black bg-opacity-50">
+          <div className="bg-white p-6 rounded-lg shadow-lg">
+            <h2 className="text-xl font-semibold mb-4">Get in Touch</h2>
+            <p className="mb-4">
+              I'd love to hear from you! Send me an email at{" "}
+              <a
+                href="mailto:atienophyllis032@gmail.com"
+                className="text-blue-500 underline"
+              >
+                atienophyllis032[at]gmail[dot]com
+              </a>
+            </p>
+            <button
+              onClick={closePopup}
+              className="flex items-center mt-4 px-4 py-2 border border-black hover:bg-gray-100 rounded-full"
+            >
+              Close
+            </button>
+          </div>
+        </div>
+      )}
     </div>
   );
 };
