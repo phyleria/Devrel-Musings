@@ -40,9 +40,11 @@ const Musings = () => {
               </ul>
             </nav>
           </div>
-          <button className="mt-4 md:mt-0 px-4 py-2 border border-black hover:bg-gray-100 rounded-full">
-            See my work
-          </button>
+          <a href="/Work">
+            <button className="mt-4 md:mt-0 px-4 py-2 border border-black hover:bg-gray-100 rounded-full">
+              See my work
+            </button>
+            </a>
         </header>
 
         <section className="p-6 rounded-lg shadow-md mb-10">
