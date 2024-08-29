@@ -252,9 +252,12 @@ integration with Interledger (a global open protocol for payments) has allowed u
 from a network of innovators working towards making financial transactions more accessible whilst staying true to our mission of financial inclusion.
 <br/><br/><strong>Open Source in Driving Financial Inclusion</strong><br/>
 I honestly believe that open-source technologies play a part in achieving financial inclusion. In many parts of the world, access to financial services is still limited, and traditional systems often fail to reach the people who need them most. But open source can change that by providing the tools and platforms needed to build inclusive financial systems.
-At Chimoney, our focus on open-source readiness has enabled us to create solutions that cater to a wide range of users. We're currently improving features like our multi-currency wallets and cross-border payment services by integrating with Interledger’s open-source Rafiki API, making these services accessible to everyone, regardless of location or economic status. By leveraging open-source technologies, we can ensure that our services are not only innovative but also inclusive and equitable.
+At Chimoney, our focus on open-source readiness has enabled us to create solutions that cater to a wide range 
+of users. We're currently improving features like our multi-currency wallets and cross-border payment services 
+by integrating with Interledger’s open-source Rafiki API, making these services accessible to everyone, 
+regardless of location or economic status. By leveraging open-source technologies, we can ensure that our services are not only innovative but also inclusive and equitable.
 <br/><br/><strong>Practical Ways for Embracing Open Source Readiness</strong><br/>
-Based on my experience, here are a few strategies that can help others embrace open-source readiness in their 
+Here are a few strategies that I think can help others embrace open-source readiness in their 
 financial communities:<br/><br/>
 <strong>1. Education First:</strong> It’s important to educate your team and community about what open source 
 means and how it can benefit them. Knowing the core ideas behind open source is key to success.<br/><br/>
