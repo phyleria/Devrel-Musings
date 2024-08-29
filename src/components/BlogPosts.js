@@ -244,7 +244,7 @@ developed by open-source contributors, which enable us to streamline processes l
 directly through Chimoney wallets on GitHub.<br/><br/>
 <strong>How Open Source Transforms Financial Ecosystems</strong><br/>
 The traditional financial industry has often been closed off, with proprietary systems and limited 
-collaboration. But I’ve seen firsthand how open-source projects are changing that landscape. By opening up 
+collaboration. But I’m seeing firsthand how open-source projects are changing that landscape. By opening up 
 development and inviting collaboration, these projects are creating more inclusive, flexible, and innovative 
 financial systems.
 At Chimoney, we’ve used the power of open source to improve our platform’s capabilities. In particular, our 
