@@ -241,7 +241,7 @@ potential for any community—especially in the finance sector.
 At Chimoney, while we haven't built major features from the ground up using open source, we actively 
 leverage open-source projects and tools developed by the community. For instance, we leverage SDKs and tools 
 developed by open-source contributors, which enable us to streamline processes like rewarding contributors 
-directly through Chimoney wallets once a pull request is merged on GitHub.<br/><br/>
+directly through Chimoney wallets on GitHub.<br/><br/>
 <strong>How Open Source Transforms Financial Ecosystems</strong><br/>
 The traditional financial industry has often been closed off, with proprietary systems and limited 
 collaboration. But I’ve seen firsthand how open-source projects are changing that landscape. By opening up 
