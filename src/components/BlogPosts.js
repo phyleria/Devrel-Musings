@@ -224,7 +224,7 @@ export const OF = () => (
     <h1 className="text-3xl font-bold mb-4">Empowering Financial Communities through Open-Source Readiness</h1>
     <p className="text-lg mt-4 text-gray-600">
       <p>
-As someone involved in community building and developer relations, I’ve witnessed the amazing impact of 
+As someone involved in community building and developer relations, I’ve seen the amazing impact of 
 open source on financial ecosystems. While I never got to present my talk at the  <a
             href="https://events.linuxfoundation.org/open-source-finance-forum-london/"
             className="text-blue-500 underline"
