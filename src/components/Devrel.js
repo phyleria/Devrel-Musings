@@ -10,6 +10,12 @@ const articles = [
     image: process.env.PUBLIC_URL + "/assets/DX.png",
     url: "/blog/DX",
   },
+  {
+    title: "Empowering Financial Communities Through Open-Source Readiness",
+    category: "OF",
+    image: "https://live.staticflickr.com/65535/53821169042_0d76621f0b_z.jpg",
+    url: "/blog/OF",
+  },
 ];
 
 const Devrel = () => {

@@ -219,3 +219,63 @@ export const DX = () => (
     </p>
   </div>
 );
+export const OF = () => (
+  <div className="max-w-5xl mx-auto p-5 bg-[#f6f4ef] mt-5 mb-20 rounded-lg shadow-lg">
+    <h1 className="text-3xl font-bold mb-4">Empowering Financial Communities through Open-Source Readiness</h1>
+    <p className="text-lg mt-4 text-gray-600">
+      <p>
+As someone involved in community building and developer relations, I’ve witnessed the amazing impact of 
+open source on financial ecosystems. While I never got to present my talk at the  <a
+            href="https://events.linuxfoundation.org/open-source-finance-forum-london/"
+            className="text-blue-500 underline"
+          >
+            Open Source Finance Forum,{" "}
+          </a> 
+I still wanted to share my thoughts on how open-source readiness can empower financial communities, 
+gathering from my experience at Chimoney.<br/><br/>
+<strong>Understanding Open Source Readiness</strong><br/>
+When I talk about open-source readiness, I’m referring to more than just the ability to use open-source 
+software. It’s about creating a mindset and a culture that embraces collaboration, transparency, and 
+innovation. Open source is a philosophy that, when properly understood and adopted, can create significant 
+potential for any community—especially in the finance sector.
+At Chimoney, while we haven't built major features from the ground up using open source, we actively 
+leverage open-source projects and tools developed by the community. For instance, we leverage SDKs and tools 
+developed by open-source contributors, which enable us to streamline processes like rewarding contributors 
+directly through Chimoney wallets once a pull request is merged on GitHub.<br/><br/>
+<strong>How Open Source Transforms Financial Ecosystems</strong><br/>
+The traditional financial industry has often been closed off, with proprietary systems and limited 
+collaboration. But I’ve seen firsthand how open-source projects are changing that landscape. By opening up 
+development and inviting collaboration, these projects are creating more inclusive, flexible, and innovative 
+financial systems.
+At Chimoney, we’ve used the power of open source to improve our platform’s capabilities. In particular, our 
+integration with Interledger (a global open protocol for payments) has allowed us to contribute to and benefit 
+from a network of innovators working towards making financial transactions more accessible whilst staying true to our mission of financial inclusion.
+<br/><br/><strong>Open Source in Driving Financial Inclusion</strong><br/>
+I honestly believe that open-source technologies play a part in achieving financial inclusion. In many parts of the world, access to financial services is still limited, and traditional systems often fail to reach the people who need them most. But open source can change that by providing the tools and platforms needed to build inclusive financial systems.
+At Chimoney, our focus on open-source readiness has enabled us to create solutions that cater to a wide range of users. We're currently improving features like our multi-currency wallets and cross-border payment services by integrating with Interledger’s open-source Rafiki API, making these services accessible to everyone, regardless of location or economic status. By leveraging open-source technologies, we can ensure that our services are not only innovative but also inclusive and equitable.
+<br/><br/><strong>Practical Ways for Embracing Open Source Readiness</strong><br/>
+Based on my experience, here are a few strategies that can help others embrace open-source readiness in their 
+financial communities:<br/><br/>
+<strong>1. Education First:</strong> It’s important to educate your team and community about what open source 
+means and how it can benefit them. Knowing the core ideas behind open source is key to success.<br/><br/>
+<strong>2. Active Collaboration:</strong> Engage with existing open-source communities and contribute to 
+projects that align with your goals. This collaborative spirit is at the heart of what makes open source so 
+powerful.<br/><br/>
+<strong>3. Invest in the Right Infrastructure:</strong> Make sure your technical infrastructure is capable of 
+supporting open-source tools. This not only includes the software stack but also creating an environment that 
+encourages continuous learning and improvement.<br/><br/>
+<strong>4. Encourage Creativity:</strong> Allow your team the freedom to experiment with open-source tools and
+ ideas. Innovation often comes from unexpected places, so it’s important to create an environment where 
+ creativity is encouraged.<br/><br/>
+<strong>5. Focus on Inclusion:</strong> Always keep the needs of underrepresented and underserved communities 
+in mind when developing open-source solutions. Financial inclusion should be a priority in any open-source 
+project in the financial sector.<br/><br/>
+I hope this blog inspires you to consider how you can include open-source readiness in your own work—either as a developer, community manager, or someone involved in the financial sector in any capacity.
+<br/><br/>
+Until next time!
+
+
+</p>
+      </p>
+      </div>
+);
