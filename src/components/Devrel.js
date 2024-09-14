@@ -6,13 +6,13 @@ import "../App.css";
 const articles = [
   {
     title: "Developer Experience in My Role",
-    category: "DX",
+    category: "DevRel",
     image: process.env.PUBLIC_URL + "/assets/DX.png",
     url: "/blog/DX",
   },
   {
     title: "Empowering Financial Communities Through Open-Source Readiness",
-    category: "OF",
+    category: "Open Source",
     image: "https://live.staticflickr.com/65535/53821169042_0d76621f0b_z.jpg",
     url: "/blog/OF",
   },

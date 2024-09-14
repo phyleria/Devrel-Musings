@@ -63,14 +63,12 @@ const Home = () => {
               className="w-40 h-40 rounded-full mx-auto mb-5 border border-white"
             />
             <h2 className="text-3xl font-semibold">Hi! I’m Phylis Atieno</h2>
-            <p className="text-lg text-gray-600">
-              Community & DevRel Manager from Kenya.
-            </p>
+           
           </section>
 
           <section className="text-center mb-10">
-            <h3 className="text-2xl font-semibold mb-5">
-              "Building communities and passion around products"
+            <h3 className="text-2xl mb-5">
+              "Exploring Community, DevRel, Music, and Books!"
             </h3>
             <div className="flex justify-center space-x-5">
               <button
@@ -85,35 +83,19 @@ const Home = () => {
           <section className="mb-10">
             <h4 className="text-xl font-semibold mb-5 ml-10">About Me</h4>
             <p className="ml-10 mr-10 text-justify">
-              Hi there stranger or friend😉 Welcome to my website. A little bit
-              about me; I love artsy stuff and have a deep love for music, alone
-              time and connecting with people (sometimes). Professionally,
-              helping others achieve their goals makes me very happy. Maybe
-              there’s something I can help you with.
+              Hi there stranger or friend😉
+            
+              I’m Phylis, currently a Community and Developer Relations Manager at Chimoney, 
+              I share my thoughts on community building, DevRel, and open source on my 'Learnings from DevRel' page.
               <br />
               <br />
-              Currently, I’m a Community and Developer Relations Manager at
-              Chimoney. I work closely with developers to help them learn more
-              about our product and integrate with it. I love combining my
-              passion for technology and community building in my current role.
-              Throughout my journey, I've worked with several industries and
-              platforms, which has helped me understand and appreciate tech &
-              innovation. I enjoy sharing my knowledge and experiences with
-              communities at events and through my writings. Check out some of
-              the presentations and articles I’ve contributed to on my
-              'Learnings from DevRel' Page.
-              <br />
-              <br />
-              Outside of work, I am trying to be committed to my music career. I
-              love singing and learning new instruments. I share my performances
-              and covers through videos and reels. This helps me connect with
-              people who appreciate music like I do.
+              Feel free to check out some of my creations on the 'Music' page—random songs recorded in my room, 
+              usually late at night.
               <br />
               <br />
               Oh, and finally my ideal retirement plan is to become a writer
-              documenting cultures. I would like to start with the Luo culture
-              but outside my own, I would love to explore the documented Mali
-              culture.
+              documenting cultures. Starting with documenting the Luo culture, 
+              then exploring the history of the Mali Empire. After that, I'll see where it takes me.  
             </p>
           </section>
 
