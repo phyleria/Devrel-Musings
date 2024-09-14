@@ -5,7 +5,7 @@ import "../App.css";
 
 const articles = [
   {
-    title: "Developer Experience in My Role",
+    title: "My Learnings and Strategies in Building Better Developer Experience",
     category: "DevRel",
     image: process.env.PUBLIC_URL + "/assets/DX.png",
     url: "/blog/DX",

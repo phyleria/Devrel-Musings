@@ -28,18 +28,13 @@ export const FaithChanges = () => (
       connection that is missing, and I know why it’s missing because it was
       never about the conversations or the prayers; it was about the habits that
       kept Him close. I realized that in the past, there were no distracting
-      habits, just struggling to get that perfect grade, laughing and having
-      good conversations with friends, looking forward to a good meal, and that
+      habits, just struggling to get that perfect grade, having
+      good times with friends, and that
       was it. Nothing ever crossed me to the level of losing my temper and
-      crying out angrily. The only thing that could cross me was when my
-      housemate decided to throw my wet clothes to the floor because she wanted
-      to hang hers. But that’s easily dismissable, right? It’s not that deep.
-      And at night when I slept, I would talk to God about it and say to please
-      forgive her, and it never burdened me. But right now, having such a
-      scenario happen to me might through me into a mental spiral. Point is,
+      crying out angrily. Point is,
       there are more things that are now proving hard to navigate and with more
       of this I feel farthest from His presence. To keep my sanity, I’ve taken
-      some time away from Our jisting, casual conversations (maybe I’m
+      some time away from their casual conversations (maybe I’m
       delusional but yes they were conversations) to help me deal with the
       constant trials.
       <br />
@@ -56,7 +51,7 @@ export const FaithChanges = () => (
 
 export const DX = () => (
   <div className="max-w-5xl mx-auto p-5 bg-[#f6f4ef] mt-5 mb-20 rounded-lg shadow-lg">
-    <h1 className="text-3xl font-bold mb-4">Developer Experience in My Role</h1>
+    <h1 className="text-3xl font-bold mb-4">My Learnings and Strategies in Building Better Developer Experience</h1>
     <p className="text-lg mt-4 text-gray-600">
       <p>
         When I started working in Developer Relations (DevRel), I didn't know
