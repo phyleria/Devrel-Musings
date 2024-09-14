@@ -23,7 +23,7 @@ const shows = [
   {
     date: "Original",
     title: "Samahani",
-    image: process.env.PUBLIC_URL + "/assets/Cover4.jpeg",
+    image: process.env.PUBLIC_URL + "/assets/Cover4.jpg",
     url: "https://youtu.be/FuydTn5AVlM?si=mr8p8SMiw_gbuHvC",
   },
 ];
