@@ -89,7 +89,7 @@ const Home = () => {
               I share my thoughts on community building, DevRel, and open source on my <strong>'Learnings from DevRel'</strong> page.
               <br />
               <br />
-              Feel free to check out some of my creations on the <strong>'Music'</strong> page—random songs.
+              Feel free to check out some of my creations on the <strong>'Music'</strong> page—just random songs.
               <br />
               <br />
               My ideal retirement plan is to become a writer
