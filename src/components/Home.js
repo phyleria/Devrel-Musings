@@ -86,15 +86,14 @@ const Home = () => {
               Hi there stranger or friend😉
             
               I’m Phylis, currently a Community and Developer Relations Manager at Chimoney, 
-              I share my thoughts on community building, DevRel, and open source on my 'Learnings from DevRel' page.
+              I share my thoughts on community building, DevRel, and open source on my <strong>'Learnings from DevRel'</strong> page.
               <br />
               <br />
-              Feel free to check out some of my creations on the 'Music' page—random songs recorded in my room, 
-              usually late at night.
+              Feel free to check out some of my creations on the <strong>'Music'</strong> page—random songs.
               <br />
               <br />
-              Oh, and finally my ideal retirement plan is to become a writer
-              documenting cultures. Starting with documenting the Luo culture, 
+              My ideal retirement plan is to become a writer
+              documenting cultures. Starting with the Luo culture, 
               then exploring the history of the Mali Empire. After that, I'll see where it takes me.  
             </p>
           </section>
