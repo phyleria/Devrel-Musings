@@ -68,7 +68,7 @@ const Home = () => {
 
           <section className="text-center mb-10">
             <h3 className="text-2xl mb-5">
-              "Exploring Community, DevRel, Music, and Books!"
+              "Exploring Community, Music, and Books!"
             </h3>
             <div className="flex justify-center space-x-5">
               <button
