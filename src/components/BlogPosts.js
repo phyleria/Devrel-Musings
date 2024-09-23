@@ -392,7 +392,7 @@ export const SamburuGirls = () => (
     program." She laughs softly as she says, <i>"It started as a joke."</i> Most of the girls had never been to school
      before, and simply enrolling them in a local school would be overwhelming for many. So, the accelerator 
      program was created to teach them the basics—reading, writing, and math—before placing them into primary 
-     schools nearby. Wanjiru mentions a key detail: they make sure the girls attend schools outside Samburu 
+     schools nearby. Wanjiru mentions a key detail: they make sure the girls attend high schools outside Samburu 
      County. <i>"We want them to mix with other girls from different places, to give them exposure,"</i> she explains.
      Many of these girls have never been beyond Samburu, and this exposure is important.
    <br/><br/>  <hr className="border-2 border-gray-300" />     <br/>
