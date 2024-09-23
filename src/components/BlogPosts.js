@@ -278,7 +278,7 @@ Until next time!
       </div>
 );
 
-export const SG = () => (
+export const SamburuGirls = () => (
   <div className="max-w-5xl mx-auto p-5 bg-[#f6f4ef] mt-5 mb-20 rounded-lg shadow-lg">
     <h1 className="text-3xl font-bold mb-4">What is the Cost of Education for a Samburu Girl?
     </h1>

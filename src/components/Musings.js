@@ -13,7 +13,7 @@ const articles = [
     title: "What is the Cost of Education for a Samburu Girl?",
     category: "",
     image: process.env.PUBLIC_URL + "/assets/samburu.jpg",
-    url: "/blog/SG",
+    url: "/blog/SamburuGirls",
   },
 ];
 
