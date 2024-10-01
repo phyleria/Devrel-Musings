@@ -283,10 +283,17 @@ export const SamburuGirls = () => (
     <h1 className="text-3xl font-bold mb-4">What is the Cost of Education for a Samburu Girl?
     </h1>
     <p className="text-lg mt-4 text-gray-600">
+    <div className="flex justify-center mb-6">
+      <img 
+        src={process.env.PUBLIC_URL + "/assets/samburu.jpg"}
+        alt="Samburu" 
+        className=" h-auto rounded-lg shadow-md"
+      />
+    </div>
     In Samburu, the price of education is not just measured in tuition fees or school supplies, 
     it’s weighed against a girl’s freedom, future, and sometimes, life. Here, many girls face 
     the cruel reality of female genital mutilation (FGM) and early marriages, often as young 
-    as eight years old. These deeply ingrained practices rob them of the opportunity to learn,
+    as seven years old. These deeply ingrained practices rob them of the opportunity to learn,
     dream, and choose their paths. In a region where the teenage pregnancy rate is at 50%—the
     highest in Kenya—the odds are stacked against these girls from an early age, with many 
     forced into motherhood before they even understand what it means to be a child.
@@ -395,15 +402,37 @@ export const SamburuGirls = () => (
      schools nearby. Wanjiru mentions a key detail: they make sure the girls attend high schools outside Samburu 
      County. <i>"We want them to mix with other girls from different places, to give them exposure,"</i> she explains.
      Many of these girls have never been beyond Samburu, and this exposure is important.
+     <br/><br/>
+    <div className="flex justify-center mb-6">
+      <img 
+        src={process.env.PUBLIC_URL + "/assets/Block.jpg"}
+        alt="Samburu" 
+        className="w-[700px] h-[500px] rounded-lg shadow-md"
+      />
+    </div>
    <br/><br/>  <hr className="border-2 border-gray-300" />     <br/>
     As we walked around, Wanjiru pointed out the small room where she and Josephine used to sleep, and the 
     office they worked from, a reminder of how far they had come. We passed the kitchen, a simple wooden 
     structure where all the girls' meals were prepared, but they would soon be closing it down and moving 
-    to a better kitchen.
+    to a better kitchen.<br/><br/>
+    <div className="flex justify-center mb-6">
+      <img 
+        src={process.env.PUBLIC_URL + "/assets/Kitchen.jpg"}
+        alt="Samburu" 
+        className="w-[700px] h-[500px] rounded-lg shadow-md"
+      />
+    </div>
     <br/><br/>
     The foundation has a basketball pitch—a state-of-the-art court. The court was a gift from Masai Ujiri, 
     built after a visit to the foundation. <i>“He asked the girls what they wanted,”</i> Wanjiru recalled, smiling, 
-    “and they said, <i>‘We want to play basketball!’</i>  So, he built them a court.”
+    “and they said, <i>‘We want to play basketball!’</i>  So, he built them a court.”<br/><br/>
+    <div className="flex justify-center mb-6">
+      <img 
+        src={process.env.PUBLIC_URL + "/assets/Pitch.jpg"}
+        alt="Samburu" 
+        className="w-[700px] h-[500px] rounded-lg shadow-md"
+      />
+    </div>
     <br/><br/>
     <hr className="border-2 border-gray-300" />    
     <br/>
@@ -420,31 +449,52 @@ export const SamburuGirls = () => (
      as they wish due to limited resources—healthcare, food, and even basic expenses are stretched thin. The foundation needs support to help more girls because the work they do is nothing short of extraordinary,
      and the lives they save are worth every sacrifice.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+     <br/><br/>To donate kindly visit - https://samburugirls.foundation/donate/
     </p>
       </div>
+);
+export const There = () => (
+  <div className="max-w-5xl mx-auto p-5 bg-[#f6f4ef] mt-5 mb-20 rounded-lg shadow-lg">
+    <h1 className="text-3xl font-bold mb-4">"I’m There" – The Story Behind the Song
+    </h1>
+    <div className="flex justify-center">
+      <iframe 
+        width="560" 
+        height="315" 
+        src="https://www.youtube.com/embed/isIzswsnimo?si=ezXhroDBFXuc158f" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" 
+        allowfullscreen
+      ></iframe>
+    </div>
+
+    <p className="text-lg mt-4 text-gray-600">
+    
+I’m not new to Christianity but I am new to having a relationship with God. And I consider myself still young and growing, most of the questions I have been asking myself are slowly being answered. Recently, I found myself doubting my faith. I was hanging out with a couple of friends who had the same questions I once struggled with. As I tried to share my answers with them, I realized my words didn’t resonate with them at all. At that moment, I began to question most things. I started to wonder if I was stupid for believing in God. I gave in to the doubt, slipping back into old habits I had left behind. Not necessarily harmful but that took away the time I spent in His presence.
+
+<br/><br/>Immediately I separated from my friends I felt the weight of what I had done. I felt emptiness when I realized I couldn’t feel the holy spirit anymore. I blamed myself for not being able to answer their questions and convict them in the same way I had been convicted and also for not being strong in my faith that I could be easily swayed by a simple doubt.
+
+<br/><br/> <h1 className="text-xl font-bold mb-4">Meaning Behind the Lyrics</h1>
+
+<i>“When those thoughts crowd my head and saying, maybe you’re losing your mind and failing”</i><br/>
+
+In the time that I had left the presence of my friends, all those weighted thoughts came flooding. I began to think that maybe I was wrong to believe, that maybe I was failing as a Christian.
+
+<br/><br/><i>“Sounds like I’m in too deep, tracing my steps it feels so hard”</i><br/>
+It felt impossible to get back to where I was spiritually. I thought I was too far gone, and that repenting would just lead me to fall back again.
+<br/><br/><i>“Coming deep is you, holding my heart where I thought I blew”</i><br/>
+But in that desolate place, I felt the Holy Spirit reach out to me. He didn’t give me answers or explanations. Instead, He gently reminded me that it was okay. Where I thought I had messed up, He let me know that it is totally ok .
+<br/><br/><i>“You know that I missed you, for the short time I fell and my heart felt like a cage”</i><br/>
+In that moment, I missed God’s presence. The emptiness I felt without Him made my heart feel like it was trapped in a cage. (This was also meant for humor because I did miss Him)
+<br/><br/><i>“Why, faults, conniving, ingrained and staining”</i><br/>
+During the conversation I had with my friends they had asked a lot of whys, ‘Why is there bad if God’s there’ and I started questioning too and I felt like that stained me in parts I didn’t think it could
+
+<br/><br/><i>“Maybe we found our hope in the saying that I’m with you”</i><br/>
+The only answer I had all through the experience was ‘I’m with You’ that’s God’s promise to us and it was the only thing that made sense at that time. And I think that’s what gives all other christians hope, the fact that he promised that He is with us everytime
+
+<br/><br/>The outro emphasizes God’s promise to us that he is always there, in everything he is always there and we just have to reach out, so I hope you reach today!
+      
+    </p></div>
 );

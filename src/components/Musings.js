@@ -15,6 +15,12 @@ const articles = [
     image: process.env.PUBLIC_URL + "/assets/samburu.jpg",
     url: "/blog/SamburuGirls",
   },
+  {
+    title: "I’m There – The Story Behind the Song",
+    category: "",
+    image: process.env.PUBLIC_URL + "/assets/There.jpg",
+    url: "/blog/There",
+  },
 ];
 
 const Musings = () => {

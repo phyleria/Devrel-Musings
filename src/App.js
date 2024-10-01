@@ -7,7 +7,7 @@ import Musings from "./components/Musings";
 import Music from "./components/Music";
 import Work from "./components/Work";
 
-import { FaithChanges, DX, OF, SamburuGirls } from "./components/BlogPosts";
+import { FaithChanges, DX, OF, SamburuGirls, There } from "./components/BlogPosts";
 
 function App() {
   return (
@@ -23,6 +23,8 @@ function App() {
         <Route path="/blog/DX" element={<DX />} />
         <Route path="/blog/OF" element={<OF />} />
         <Route path="/blog/SamburuGirls" element={<SamburuGirls />} />
+        <Route path="/blog/There" element={<There />} />
+
       </Routes>
     </Router>
   );
