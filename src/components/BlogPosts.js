@@ -292,7 +292,7 @@ export const SamburuGirls = () => (
     </div>
     In Samburu, education costs more than just fees—it comes at the price of a girl's freedom and future. Many girls face female genital mutilation (FGM) and early marriage, some as young as seven. With a 50% teenage pregnancy rate, the highest in Kenya, these girls are often forced into motherhood far too soon.
 
-At the Samburu Girls Foundation, they find a safe haven, rescued from these harmful traditions. Here, they are empowered, educated, and given a chance to pursue their dreams, including higher education.
+At the Samburu Girls Foundation, they find a safe haven, rescued from these harmful traditions. Here, they are educated, and given a chance to pursue their dreams, including higher education.
     <br/><br/>
 
     <hr className="border-2 border-gray-300" />    <br/>
