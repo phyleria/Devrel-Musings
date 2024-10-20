@@ -290,32 +290,23 @@ export const SamburuGirls = () => (
         className=" h-auto rounded-lg shadow-md"
       />
     </div>
-    In Samburu, the price of education is not just measured in tuition fees or school supplies, 
-    it’s weighed against a girl’s freedom, future, and sometimes, life. Here, many girls face 
-    the cruel reality of female genital mutilation (FGM) and early marriages, often as young 
-    as seven years old. These deeply ingrained practices rob them of the opportunity to learn,
-    dream, and choose their paths. In a region where the teenage pregnancy rate is at 50%—the
-    highest in Kenya—the odds are stacked against these girls from an early age, with many 
-    forced into motherhood before they even understand what it means to be a child.
-    <br/>
-    Today, we are at the Samburu Girls Foundation, a sanctuary built to rescue these young 
-    girls from the cruel traditions that bind them. This foundation is where these girls are
-    given a second chance. From the moment they arrive, they are nurtured, empowered, and 
-    given the opportunity to pursue their education all the way to university.
-    <br/>    <br/>
+    In Samburu, education costs more than just fees—it comes at the price of a girl's freedom and future. Many girls face female genital mutilation (FGM) and early marriage, some as young as seven. With a 50% teenage pregnancy rate, the highest in Kenya, these girls are often forced into motherhood far too soon.
+
+At the Samburu Girls Foundation, they find a safe haven, rescued from these harmful traditions. Here, they are empowered, educated, and given a chance to pursue their dreams, including higher education.
+    <br/><br/>
 
     <hr className="border-2 border-gray-300" />    <br/>
     We had the privilege of meeting Dr. Josephine Kulea, the founder of the Samburu Girls Foundation, 
-    a week before our visit. Her calm and gentle demeanor contradicted the incredible strength and 
-    resolve she carries within her—a powerhouse, we soon learned, through the stories she shared.
+    a week before our visit. Her calm and gentle nature contradicting the incredible strength and 
+    resolve she carries within her. A powerhouse, we soon learned, through the stories she shared.
     <br/><br/>
     Josephine’s journey to founding the Samburu Girls Foundation began with a deeply personal moment. 
-    <i>“I was invited to a wedding,”</i> she recounts. <i>“I didn’t know who the bride was until I was told it 
+    <i>“I was invited to a wedding,”</i> <i>“I didn’t know who the bride was until later when I was told it 
     was my cousin, who I thought was still in school.”</i> The bride, was only ten years old, and Josephine
     was horrified. A day before the wedding, she took her cousin and went straight to the police station.
     That was the first girl she rescued. 
     <br/><br/>
-    But Josephine’s relief was short-lived. <i>“The wedding still went on,”</i> she tells us, <i>“They replaced her 
+    But Josephine’s relief didn't last long. <i>“The wedding still went on,”</i> she told us, <i>“They replaced her 
     with her younger sister, who was only seven.”</i> Shocked and angered by the reality of what had happened, 
     Josephine returned and rescued the younger girl too. The first girl got remarried later on but her younger
      sister remained under Josephine’s care, and she was the catalyst for what would later become the Samburu 
@@ -324,26 +315,24 @@ export const SamburuGirls = () => (
     
      Listening to her recount these early days of her mission, we couldn’t help but wonder what kind of 
      courage it took to stand up against deeply fixed traditions, to face resistance not just from the 
-     community, but even from her own family. <i>“I received curses from my family,”</i> she admits, <i>“and there
+     community, but even from her own family. <i>“I received curses from my family,”</i> <i>“and there
     were times my life was in danger, but I didn’t care. All I wanted was for these girls to have the 
-    chance to go to school because I strongly believe in education.”</i>
+    chance to go to school.”</i>
     <br/>
 
     Josephine's commitment has changed the lives of thousands of girls. At the foundation, we met the 
-    second girl Josephine rescued. Now grown, she was beautiful, a graduate, and a living proof of the 
-    impact Josephine’s work had on the girls' lives.
+    second girl Josephine rescued now grown and a graduate.
     <br/><br/>
     <hr className="border-2 border-gray-300" />   
     <br/>
-    In the meetings we’d had virtually before the visit, we’d interacted with Wanjiru, the foundation’s 
-    current executive director, and when we finally met her we immediately felt the warmth and kindness 
-    that she radiates. 
+    In our virtual meetings before the visit, we had spoken with Wanjiru, the foundation’s executive director. When we finally met her in person, we instantly felt the warmth and kindness she radiates.
+
     <br/><br/>
     <i>“I met Josephine by chance,”</i> Wanjiru tells us, <i>“and when she shared her story with me, I was 
       intrigued.”</i> 
     She visited the foundation a short time later and, upon returning to Nairobi, made a life-altering decision.
      <i>“I gave my one-month notice at work, packed up my things, and moved to Samburu to help Josephine,”</i> 
-     she recalls, smiling. <i>“Even Josephine couldn’t believe it.”</i> We couldn’t believe it too.
+     she recalls, smiling. <i>“Josephine couldn’t believe it.”</i> We couldn’t believe it too.
      <br/><br/>
      Over the years, she and Josephine have worked side by side, overcoming many challenges.
      <i>“When we started, we had no land,”.</i> Today, the foundation sits on 15 acres of land.
@@ -351,8 +340,8 @@ export const SamburuGirls = () => (
     Even with the foundation’s successes, it has never been easy. Wanjiru shares stories of the resistance 
     they’ve faced from the community, particularly from the older women who questioned why they were challenging
      practices that had been the norm for generations. There were times when morans—young Samburu men—would 
-     break into the school to try and reclaim their ‘wives,’ and Wanjiru recalls how they had to install 
-     electric fences to keep them out. <i>“Guns aren’t a big deal here,”</i> she says.
+     break into the school to try and reclaim their ‘wives,’ and Wanjiru mentions how they had to install 
+     electric fences to keep them out. <i>“Owning guns isn’t a big deal here,”</i> she says.
      <br/><br/>
      <hr className="border-2 border-gray-300" />
      <br/>   
@@ -360,13 +349,12 @@ export const SamburuGirls = () => (
 
      As we sat in one of the foundation’s classrooms—doubling as an ICT room—Wanjiru shared more about the 
      struggles they faced in keeping the foundation running. <i>“It’s hard to get donations or consistent 
-      funding,”</i>
-    Wanjiru admits. <i>“I’ve had to learn how to be a professional beggar.”</i>  We laugh at the joke, but the 
+      funding,”</i><i>“I’ve had to learn how to be a professional beggar.”</i>  We laugh at the joke, but the 
     reality is sobering.
     <br/><br/>
     It was in the room that Wanjiru introduced us to Angella, a bright young girl who had been accepted 
     into Kenyatta University but hadn’t been able to start due to financial challenges. <i>“But she will join,”  
-      </i>  Wanjiru says with her usual positivity. <i>“It might take some time, but she will join. Who knows, maybe 
+      </i>  Wanjiru says with positivity. <i>“It might take some time, but she will join. Who knows, maybe 
     she’ll get a scholarship like Rozilla.”</i> 
     <br/><br/>Rozilla, another success story from the foundation, had recently
     been awarded a Mastercard Foundation scholarship to study International Relations at USIU. Rozilla had
@@ -396,7 +384,7 @@ export const SamburuGirls = () => (
     <br/>
 
     When the girls first come to the center, they’re placed into what Wanjiru calls a "one-year accelerator 
-    program." She laughs softly as she says, <i>"It started as a joke."</i> Most of the girls had never been to school
+    program." <i>"It started as a joke."</i> Most of the girls had never been to school
      before, and simply enrolling them in a local school would be overwhelming for many. So, the accelerator 
      program was created to teach them the basics—reading, writing, and math—before placing them into primary 
      schools nearby. Wanjiru mentions a key detail: they make sure the girls attend high schools outside Samburu 
@@ -446,10 +434,15 @@ export const SamburuGirls = () => (
     when Wanjiru gently intervenes. As we leave, it's clear that the foundation is giving these girls safety, 
     education, and hope. But there’s also a heaviness in knowing how many more girls need this kind of refuge. 
     Wanjiru had mentioned earlier how hard it is to find donors, and how they struggle to support as many girls
-     as they wish due to limited resources—healthcare, food, and even basic expenses are stretched thin. The foundation needs support to help more girls because the work they do is nothing short of extraordinary,
-     and the lives they save are worth every sacrifice.
-
-     <br/><br/>To donate kindly visit - https://samburugirls.foundation/donate/
+     as they wish due to limited resources—healthcare, food, and even basic expenses. 
+     
+     <br/><br/>The foundation needs support
+      to help more girls and if willing, please support them directly <a
+            href="https://samburugirls.foundation/donate/"
+            className="flex justify text-blue-500 underline"
+          >
+           through this link{" "}
+          </a> 
     </p>
       </div>
 );
