@@ -493,7 +493,9 @@ export const Firsts = () => (
         <p><b>Tracks:</b><br/>
 - Roses and Thorns - Johannes Bornlof<br/>
 - Twinkle of the Lights - Johannes Bornlof<br/>
-- Idea 15 - Gibran Alcocer<br/><br/>
+- Idea 15 - Gibran Alcocer<br/>
+- Idea 7 - Gibran Alcocer<br/><br/>
+<br/>
 <hr className="border-2 border-gray-300" />    <br/>
 
 I am writing this instead of sleeping while listening to Johannes Bornlof, and for your sake I have included the tracks so you can have the same serene and tranquil feeling I am having while writing this. Recently, I’ve been having flashbacks, a wave of nostalgia washing over me. I’ve been randomly thinking about when I first read some books; my first swahili or romance novels, my first crush, and all the overwhelming feelings I wish I could have bottled back then. Memories of home come rushing back: of my childhood friends, how I loved staying in, and how much I enjoyed reading books and finishing most in one sitting. Just recently, while going through those books, I felt every emotion I had experienced while reading them, as if no time had passed. I don’t know what’s causing this reflection, maybe it’s how distant those memories seem as each year goes by or because in a few years I’ll be in my mid twenties, can’t wait!
