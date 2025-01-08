@@ -494,7 +494,7 @@ export const Firsts = () => (
 - Roses and Thorns - Johannes Bornlof<br/>
 - Twinkle of the Lights - Johannes Bornlof<br/>
 - Idea 15 - Gibran Alcocer<br/>
-- Idea 7 - Gibran Alcocer<br/><br/>
+- Idea 7 - Gibran Alcocer<br/>
 <br/>
 <hr className="border-2 border-gray-300" />    <br/>
 
