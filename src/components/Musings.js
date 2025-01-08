@@ -21,6 +21,12 @@ const articles = [
     image: process.env.PUBLIC_URL + "/assets/There.jpg",
     url: "/blog/There",
   },
+  {
+    title: "Firsts",
+    category: "",
+    image: process.env.PUBLIC_URL + "/assets/firsts.jpg",
+    url: "/blog/Firsts",
+  },
 ];
 
 const Musings = () => {

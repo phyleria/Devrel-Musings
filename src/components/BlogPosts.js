@@ -283,13 +283,6 @@ export const SamburuGirls = () => (
     <h1 className="text-3xl font-bold mb-4">What is the Cost of Education for a Samburu Girl?
     </h1>
     <p className="text-lg mt-4 text-gray-600">
-    <div className="flex justify-center mb-6">
-      <img 
-        src={process.env.PUBLIC_URL + "/assets/samburu.jpg"}
-        alt="Samburu" 
-        className=" h-auto rounded-lg shadow-md"
-      />
-    </div>
     In Samburu, education costs more than just fees—it comes at the price of a girl's freedom and future. Many girls face female genital mutilation (FGM) and early marriage, some as young as seven. With a 50% teenage pregnancy rate, the highest in Kenya, these girls are often forced into motherhood far too soon.
 
 At the Samburu Girls Foundation, they find a safe haven, rescued from these harmful traditions. 
@@ -492,3 +485,33 @@ The only answer I had all through the experience was ‘I’m with You’ that�
       
     </p></div>
 );
+
+export const Firsts = () => (
+  <div className="max-w-5xl mx-auto p-5 bg-[#f6f4ef] mt-5 mb-20 rounded-lg shadow-lg">
+  <h1 className="text-3xl font-bold mb-4">Firsts</h1>
+  <p className="text-lg mt-4 text-gray-600">
+        <p><b>Tracks:</b><br/>
+- Roses and Thorns - Johannes Bornlof<br/>
+- Twinkle of the Lights - Johannes Bornlof<br/><br/>
+<hr className="border-2 border-gray-300" />    <br/>
+
+I am writing this instead of sleeping while listening to Johannes Bornlof, and for your sake I have included the track so you can have the same serene and tranquil feeling I am having while writing this. Recently, I’ve been having flashbacks, a wave of nostalgia washing over me. I’ve been randomly thinking about when I first read some books; my first swahili or romance novels, my first crush, and all the overwhelming feelings I wish I could have bottled back then. Memories of home come rushing back: of my childhood friends, how I loved staying in, and how much I enjoyed reading books and finishing most in one sitting. Just recently, while going through those books, I felt every emotion I had experienced while reading them, as if no time had passed. I don’t know what’s causing this reflection, maybe it’s how distant those memories seem as each year goes by or because in a few years I’ll be in my mid twenties, can’t wait!
+<br/><br/>
+2024 was unpredictable. I experienced my first heartbreak, graduated, traveled to more countries, grew closer to God, and even deepened my bond with my family. It felt like a year of tackling things I had been putting off for so long and, to my surprise, many of them worked out.
+<br/><br/>
+At the beginning of the year, I added “Getting closer to God” as one of my goals for 2024. Honestly, I kept looking at that goal and thinking, This might end up being the least achieved goal on my list. But, oh boy, I was wrong, it turned out to be the goal I worked on the most this year. God really knows how to pull you closer; all you need to do is show interest :) And I’m so happy I did. It’s made me realize how far I still have to go with Him, but I’m ready to keep growing.
+<br/><br/>
+When I wrote down my goal of getting closer to God, I knew I needed to find a church. I prayed about it, and in February, He led me to the church I now call home. I’ve grown so much spiritually that I can’t even put it into words. I’m grateful for the peace that comes with prayer, reading His word, and worship. I’ve struggled in the past with writing and intentionally listening to Christian songs, but this year, it became easier. I want to continue documenting this journey—the love, the lessons, and everything in between. I’m still praying for His guidance to do this not in the way I want but in the way He wills. Oh, and a big milestone for me this year: I gave my first tithe!
+<br/><br/>
+I had also aimed to make a leap in my career this year, but I feel like I just did enough to get by. Honestly, though, I don’t regret it because—I graduated! The number of times I almost dropped out is uncountable, and I never thought I could actually make it. Now that I have, I wish I had never doubted myself. With graduation behind me, I can finally focus on getting my Master’s degree. I always thought I’d pursue a Master’s in Music, but this year changed my mind, and I’ll now be studying Financial Technology and I couldn’t be more excited!
+<br/><br/>
+This year, I improved my songwriting skills, and I’m so proud that I was able to put my songs out there without hesitation. Though the year ended with my guitar breaking beyond repair, I’m looking forward to starting piano lessons soon! Of course it will be me teaching myself but yeah, And the next time I get a guitar, I’m going for a cool electric one. I also tried learning how to make professional indie music, but it felt overwhelming each time, so I stepped back for now. I also almost enrolled in a production class but decided against it, and I’m glad I took the time to reconsider.
+<br/><br/>
+The highlight of my year was visiting more countries. I can’t wait to explore even more next year! These trips left me exhausted at times—the longest rest I had before each trip was about a week—but I loved every bit of them. The different cultures, the people, the music, the serenity, and the new experiences were all unforgettable. I made it a point to listen to a new song in each country I visited so I’d always have something to remember them by, and I’m so glad I did. The most memorable country for me was South Africa, and I’m excited to be going back soon.
+<br/><br/>
+This is a jumbled up wrap up but that’s all my mind can highlight right now. I’ll make a point of doing monthly wrap ups so it’s a bit organized the next time but bear with me for now and happy holidays!
+
+</p>
+      </p>
+    </div>
+  );
