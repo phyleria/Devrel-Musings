@@ -22,7 +22,7 @@ const articles = [
     url: "/blog/There",
   },
   {
-    title: "Firsts",
+    title: "Firsts (A 2024 Recap)",
     category: "",
     image: process.env.PUBLIC_URL + "/assets/firsts.jpg",
     url: "/blog/Firsts",
