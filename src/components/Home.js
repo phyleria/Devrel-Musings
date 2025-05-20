@@ -83,18 +83,16 @@ const Home = () => {
           <section className="mb-10">
             <h4 className="text-xl font-semibold mb-5 ml-10">About Me</h4>
             <p className="ml-10 mr-10 text-justify">
-              Hi there stranger or friend😉
-            
-              I’m Phylis, currently a Community and Developer Relations Manager at Chimoney, 
-              I share my thoughts on community building, DevRel, and open source on my <strong>'Learnings from DevRel'</strong> page.
-              <br />
-              <br />
-              Feel free to check out some of my creations on the <strong>'Music'</strong> page—just random songs.
-              <br />
-              <br />
-              My ideal retirement plan is to become a writer
-              documenting cultures. Starting with the Luo culture, 
-              then exploring the history of the Mali Empire. After that, I'll see where it takes me.  
+              Hey there! I’m Phylis, a Community and Developer Relations Manager at Chimoney. 
+              I love building communities, sharing what I’ve learned in DevRel, and contributing to open source. 
+              You can read more about that on my <strong>"Learnings from DevRel"</strong> page.
+
+              When I’m not working, I like making music, just some random songs I enjoy. 
+              You can check them out on the <strong>"Music"</strong> page. <br/><br/>
+              One day, I’d love to retire as a writer, documenting different cultures. 
+              I want to start with the Luo culture, then learn more about the Mali Empire. 
+              After that, who knows? <br/><br/>
+              Want to chat? Reach out! 
             </p>
           </section>
 
