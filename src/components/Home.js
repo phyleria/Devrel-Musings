@@ -55,44 +55,56 @@ const Home = () => {
             </button>
           </a>
         </header>
-        <main>
-          <section className="text-center mb-10">
-            <img
-              src={process.env.PUBLIC_URL + "/assets/Phylo.PNG"}
-              alt="Phylis"
-              className="w-40 h-40 rounded-full mx-auto mb-5 border border-white"
-            />
-            <h2 className="text-3xl font-semibold">Hi! I’m Phylis Atieno</h2>
-           
-          </section>
-
-          <section className="text-center mb-10">
-            <h3 className="text-2xl mb-5">
-              {/* "Exploring Community, Music, and Books!" */}
-            </h3>
-            <div className="flex justify-center space-x-5">
-              <button
-                onClick={handleTalkClick}
-                className="px-4 py-2 border border-black hover:bg-gray-100 hover:text-black rounded-full bg-black text-white"
-              >
-                Talk with me
-              </button>
+        <main className="max-w-6xl mx-auto px-6 py-16">
+        <div className="text-center mb-16">
+          {/* Profile Image with modern styling */}
+          <div className="relative inline-block mb-8">
+            <div className="absolute inset-0 bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 rounded-full blur-lg opacity-30 animate-pulse"></div>
+            <div className="relative">
+              <img
+                src="/assets/phyl.png"
+                alt="Phylis Atieno"
+                className="w-32 h-32 md:w-40 md:h-40 rounded-full object-contain border-4 border-white shadow-2xl relative z-10"
+              />
             </div>
-          </section>
+          </div>
+
+          <h1 className="text-2xl md:text-3xl font-bold text-gray-900 mb-4">
+            Hi! I'm Phylis Atieno
+          </h1>
+        
+
+          <button
+            onClick={handleTalkClick}
+            className="group px-5 py-2 bg-black text-white rounded-full hover:bg-gray-800 hover:shadow-2xl transition-all duration-300 hover:scale-105 font-semibold text-lg"
+          >
+            <a href="mailto:atienophyllis032@gmail.com">
+            <span className="flex items-center">
+              Talk with me
+              <svg className="w-5 h-5 ml-2 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
+              </svg>
+            </span>
+            </a>
+          </button>
+        </div>
+
 
           <section className="mb-10">
             <h4 className="text-xl font-semibold mb-5 ml-10">About Me</h4>
             <p className="ml-10 mr-10 text-justify">
-              Hey there! I’m Phylis, a Community and Developer Relations Manager at Chimoney. 
-              I love building communities, sharing what I’ve learned in DevRel, and contributing to open source. 
-              You can read more about that on my <strong>"Learnings from DevRel"</strong> page.
+              I am a Community and Developer Relations Manager at Chimoney,
+              where I get to do what I love: building community. I share some of what I’ve learned in 
+              DevRel and open source on the <strong>“Learnings from DevRel”</strong> page, if you’d like 
+              to check it out.<br/><br/>
+              
+              Outside of work, I make music, nothing too serious, just songs
+              I enjoy creating when the moment feels right. You’ll find a few of them on the <strong>“Music”</strong> page.
 
-              When I’m not working, I like making music, just some random songs I enjoy. 
-              You can check them out on the <strong>"Music"</strong> page. <br/><br/>
-              One day, I’d love to retire as a writer, documenting different cultures. 
+             <br/><br/> One day, I’d love to retire as a writer, documenting different cultures. 
               I want to start with the Luo culture, then learn more about the Mali Empire. 
               After that, who knows? <br/><br/>
-              Want to chat? Reach out! 
+              Feel free to reach out and connect! 
             </p>
           </section>
 
@@ -125,28 +137,6 @@ const Home = () => {
         </main>
       </div>
 
-      {showPopup && (
-        <div className="fixed inset-0 flex items-center justify-center bg-black bg-opacity-50">
-          <div className="bg-white p-6 rounded-lg shadow-lg">
-            <h2 className="text-xl font-semibold mb-4">Get in Touch</h2>
-            <p className="mb-4">
-              I'd love to hear from you! Send me an email at{" "}
-              <a
-                href="mailto:atienophyllis032@gmail.com"
-                className="text-blue-500 underline"
-              >
-                atienophyllis032[at]gmail[dot]com
-              </a>
-            </p>
-            <button
-              onClick={closePopup}
-              className="flex items-center mt-4 px-4 py-2 border border-black hover:bg-gray-100 rounded-full"
-            >
-              Close
-            </button>
-          </div>
-        </div>
-      )}
     </div>
   );
 };
