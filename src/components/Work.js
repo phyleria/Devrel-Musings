@@ -46,23 +46,24 @@ const Devrel = () => {
           {/* Hobby Amp */}
           <div className="relative overflow-hidden rounded-lg shadow-lg w-4/5">
             <img
-              src={process.env.PUBLIC_URL + "/assets/Hobby.png"}
+              src={process.env.PUBLIC_URL + "/assets/Songy.png"}
               alt="Project 2"
               className="object-cover w-full"
             />
             <div className="flex flex-col justify-center items-center text-black p-4">
               <p className="text-sm">
-              A site that randomly selects the cafe/restaraunt I will dine at to help me decide where to go.
+                A platform where I try to turn people’s personal stories into custom-made songs.
+
               </p>
             </div>
             <div className="absolute inset-0 bg-black bg-opacity-50 flex justify-end items-end text-white p-4 opacity-0 hover:opacity-100 transition-opacity duration-300">
-              <a href="https://hobby-amp.vercel.app/" className="text-lg">
+              <a href="https://phyleria.github.io/Songy/" className="text-lg">
                 →
               </a>
             </div>
           </div>
-            {/* Open Kommunity */}
-            <div className="relative overflow-hidden rounded-lg shadow-lg w-4/5">
+          {/* Open Kommunity */}
+          <div className="relative overflow-hidden rounded-lg shadow-lg w-4/5">
             <img
               src={process.env.PUBLIC_URL + "/assets/OpenKommunity.png"}
               alt="Project 2"
@@ -70,7 +71,7 @@ const Devrel = () => {
             />
             <div className="flex flex-col justify-center items-center text-black p-4">
               <p className="text-sm">
-              An open-source website template tailored for school clubs and communities.              </p>
+                An open-source website template tailored for school clubs and communities.              </p>
             </div>
             <div className="absolute inset-0 bg-black bg-opacity-50 flex justify-end items-end text-white p-4 opacity-0 hover:opacity-100 transition-opacity duration-300">
               <a href="" className="text-lg">
