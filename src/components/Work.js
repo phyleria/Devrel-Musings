@@ -92,7 +92,7 @@ const Devrel = () => {
               </p>
             </div>
             <div className="absolute inset-0 bg-black bg-opacity-50 flex justify-end items-end text-white p-4 opacity-0 hover:opacity-100 transition-opacity duration-300">
-              <a href="hobby-amp.vercel.app/" className="text-lg">
+              <a href="https://hobby-amp.vercel.app" className="text-lg">
                 →
               </a>
             </div>
