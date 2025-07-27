@@ -8,15 +8,12 @@ import {
 } from "@fortawesome/free-brands-svg-icons";
 
 const Home = () => {
-  // State to handle the visibility of the popup
   const [showPopup, setShowPopup] = useState(false);
 
-  // Function to handle the button click and show the popup
   const handleTalkClick = () => {
     setShowPopup(true);
   };
 
-  // Function to close the popup
   const closePopup = () => {
     setShowPopup(false);
   };
@@ -55,10 +52,10 @@ const Home = () => {
             </button>
           </a>
         </header>
-        <main className="max-w-6xl mx-auto px-6 py-16">
+        <main className="max-w-6xl mx-auto px-6 py-4">
         <div className="text-center mb-16">
           {/* Profile Image with modern styling */}
-          <div className="relative inline-block mb-8">
+          <div className="relative inline-block mb-8 mt-2">
             <div className="absolute inset-0 bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 rounded-full blur-lg opacity-30 animate-pulse"></div>
             <div className="relative">
               <img
