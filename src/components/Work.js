@@ -43,7 +43,7 @@ const Devrel = () => {
         </section>
         <div className="flex flex-col items-center space-y-8 p-4">
 
-          {/* Hobby Amp */}
+          {/* Songy */}
           <div className="relative overflow-hidden rounded-lg shadow-lg w-4/5">
             <img
               src={process.env.PUBLIC_URL + "/assets/Songy.png"}
@@ -75,6 +75,24 @@ const Devrel = () => {
             </div>
             <div className="absolute inset-0 bg-black bg-opacity-50 flex justify-end items-end text-white p-4 opacity-0 hover:opacity-100 transition-opacity duration-300">
               <a href="" className="text-lg">
+                →
+              </a>
+            </div>
+          </div>
+            {/* Hobby Amp */}
+          <div className="relative overflow-hidden rounded-lg shadow-lg w-4/5">
+            <img
+              src={process.env.PUBLIC_URL + "/assets/Hobby_amp.png"}
+              alt="Project 3"
+              className="object-cover w-full"
+            />
+            <div className="flex flex-col justify-center items-center text-black p-4">
+              <p className="text-sm">
+                A site that helps you decide where to dine at or cafe to visit.
+              </p>
+            </div>
+            <div className="absolute inset-0 bg-black bg-opacity-50 flex justify-end items-end text-white p-4 opacity-0 hover:opacity-100 transition-opacity duration-300">
+              <a href="hobby-amp.vercel.app/" className="text-lg">
                 →
               </a>
             </div>
