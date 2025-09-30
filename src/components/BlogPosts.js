@@ -550,7 +550,7 @@ export const Firsts = () => (
     <h1 className="text-3xl font-bold mb-4">Firsts</h1>
     <p className="text-lg mt-4 text-gray-600">
       <p><b>Tracks:</b><br />
-        - Roses and Thorns - Johannes Bornlof<br />
+        - The Rose and the Thorn - Johannes Bornlof<br />
         - Twinkle of the Lights - Johannes Bornlof<br />
         - Idea 15 - Gibran Alcocer<br />
         - Idea 7 - Gibran Alcocer<br />
