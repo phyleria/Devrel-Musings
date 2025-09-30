@@ -70,9 +70,7 @@ export const DX = () => (
         you're interested in learning about DX, then this blog is for you.
         <br />
         <br />
-        <h1 className="text-2xl font-black">
-          <strong>What is Developer Experience</strong>
-        </h1>
+         <h2 className="text-2xl font-bold mb-2">What is Developer Experience?</h2>
         Developer Experience (DX) is about how developers interact with and feel
         about tools, APIs, or software. It's similar to User Experience (UX),
         but for developers. Good DX means the tools are easy to use and
@@ -83,9 +81,7 @@ export const DX = () => (
         <br />
       </p>
 
-      <h1 className="text-2xl font-black">
-        <strong>How DevRels Improve Developer Experience</strong>
-      </h1>
+         <h2 className="text-2xl font-bold mb-2">How DevRels Improve Developer Experience</h2>
 
       <p>
         DevRel professionals bridge the gap between organizations and the
@@ -126,6 +122,7 @@ export const DX = () => (
         <h1 className="text-2xl font-black">
           Improving DX in Chimoney’s API Documentation and Resources
         </h1>
+        <br/>
       </p>
       <p>
         Like I mentioned earlier, I have been focusing on Developer Experience
@@ -234,7 +231,7 @@ export const OF = () => (
         When I talk about open-source readiness, I’m referring to more than just the ability to use open-source
         software. It’s about creating a mindset and a culture that embraces collaboration, transparency, and
         innovation. Open source is a philosophy that, when properly understood and adopted, can create significant
-        potential for any community—especially in the finance sector.
+        potential for any community, especially in the finance sector.
         At Chimoney, while we haven't built major features from the ground up using open source, we actively
         leverage open-source projects and tools developed by the community. For instance, we leverage SDKs and tools
         developed by open-source contributors, which enable us to streamline processes like rewarding contributors
@@ -502,6 +499,52 @@ export const There = () => (
     </p></div>
 );
 
+export const IteratingDX = () => (
+  <div className="max-w-5xl mx-auto p-5 bg-[#f6f4ef] mt-5 mb-20 rounded-lg shadow-lg">
+    <h1 className="text-3xl font-bold mb-4">Iterating on Developer Experience</h1>
+    <p className="text-lg mt-4 text-gray-600">
+      After giving my talk at PyCon Kenya 2025 on <strong>Practical Developer Experience Strategies for Python Developers</strong>, 
+      I felt the need to write this follow-up. While preparing the talk, I found myself reflecting on the experience  
+      I’ve had with DX and realized just how much my perspective has shifted since I first wrote about it. <br/><br/>
+      When I wrote my first blog about <a
+          href="https://devrel-musings.vercel.app/blog/DX"
+          className=" text-blue-500 underline"
+        >
+          Developer Experience (DX)
+        </a>, I was mostly sharing the early lessons I’d picked up, like how simplifying documentation or rewriting a guide can make such a big difference. Back then, 
+      I thought those small fixes were the main win. Now, I’ve realized they’re only the starting point. <br/><br/>
+      Because you can polish a getting started guide a hundred times, but the real test comes when someone 
+      new actually tries it. That’s when you see the gaps you missed. That’s when the unexpected questions come in, 
+      and the assumptions you didn’t even realize you’d made come up.
+
+      <br />
+      <br />
+      <h2 className="text-2xl font-bold mb-2">Iteration as a habit</h2>
+     
+      At first, I treated documentation updates like one-off projects, start, finish, done. But the reality is, 
+      DX doesn’t really end. It loops. You publish something, someone tries it, you get feedback, and you adjust. 
+      Then the cycle repeats. Sometimes the changes are big, like reorganizing navigation so developers don’t have 
+      to dig for the important stuff. Other times, it’s something as small as rewriting one sentence so it finally 
+      makes sense. Both matter.
+      <br />
+      <br />
+     <h2 className="text-2xl font-bold mb-2">Empathy at the core</h2> 
+      The longer I’ve done this, the more I see DX less as ‘content work’ and more as an empathy exercise. 
+      When you do it, you need to remember what it feels like to be brand new, landing on a page, connecting 
+      to an unfamiliar API, and not having the mental shortcuts the builder already has. Good DX is anticipating 
+      that moment and smoothing it out before frustration sets in.
+
+      <br />
+      <br />
+    <h2 className="text-2xl font-bold mb-2">The long game</h2>
+    If the first stage of my experience was fixing the obvious rough edges, the next stage has been about listening 
+    and adapting. And maybe that’s the real lesson, DX is never ‘done.’ It improves through the conversations, 
+    the feedback loops, and the little updates that slowly change a tool from a barrier into a bridge.
+
+    </p>
+  </div>
+);
+
 export const Firsts = () => (
   <div className="max-w-5xl mx-auto p-5 bg-[#f6f4ef] mt-5 mb-20 rounded-lg shadow-lg">
     <h1 className="text-3xl font-bold mb-4">Firsts</h1>
@@ -531,6 +574,9 @@ export const Firsts = () => (
         This is a jumbled up wrap up but that’s all my mind can highlight right now. I’ll make a point of doing monthly wrap ups so it’s a bit organized the next time but bear with me for now and happy holidays!
 
       </p>
+      
     </p>
+    
   </div>
+  
 );
