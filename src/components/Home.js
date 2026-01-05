@@ -21,7 +21,7 @@ const Home = () => {
   return (
     <div className="Home">
       <div className="max-w-5xl mx-auto p-5 bg-[#f6f4ef] mt-5 mb-20 rounded-lg shadow-lg">
-        <header className="flex flex-wrap justify-between items-center mb-10 p-5">
+        <header className="flex flex-wrap justify-between items-center mb-10 p-5 font-sans">
           <div className="flex flex-col md:flex-row items-start md:items-center space-y-4 md:space-y-0 md:space-x-10 w-full md:w-auto">
             <a href="/" className="text-2xl font-bold mr-0 md:mr-20">
               Me
@@ -57,36 +57,36 @@ const Home = () => {
         <div className="flex flex-col md:flex-row items-center md:items-start justify-between gap-8 md:gap-16 mb-8 mt-2">
           {/* Left side - About Me Content */}
           <div className="flex flex-col justify-start flex-1 order-2 md:order-1">
-            <h1 className="text-lg md:text-4xl font-bold text-gray-900 mb-2">
+            <h1 className="text-lg md:text-3xl font-bold text-gray-900 mb-2">
               Hi, I'm Phylis 👋🏽
             </h1>   <br/>
 
             
     <p className="text-sm text-gray-700 leading-relaxed mb-2">
-  I'm a DevRel with experience in community management, currently transitioning into Venture Capital.  
+  • I'm a DevRel with experience in community management, currently transitioning into Venture Capital.  
 
   <br/><br/>
 
-  I love doing a lot of things, and someone (I look up to) once asked me, "Why not just master one?" 
+  • I love doing a lot of things, and someone (I look up to) once asked me, "Why not just master one?" 
   But I think I have the time so why not? (atleast for now, lol).
 
   <br/><br/>
 
-  I have been in DevRel for about 3 years and I sometimes share my experiences in the 
+  • I have been in DevRel for about 3 years and I sometimes share my experiences in the 
   "Learnings from DevRel" page, if you'd like to check it out.
 
   <br/><br/>
 
-  As I transition to VC, I write deep dives on my Medium account and you can read them here.
+  • As I transition to VC, I write deep dives on my Medium account and you can read them <a href="https://medium.com/@atienophyllis032" target="_blank" rel="noopener noreferrer">here</a>.
 
   <br/><br/>
 
-  I love music!!! I honestly don't think I say it enough. Anyway, I write and play when I have bursts of creativity 
+  • I love music!!! I honestly don't think I say it enough. Anyway, I write and play when I have bursts of creativity 
   (which seemed a lot more before adulting hit me). You'll find some of the recordings in the "Music" page.
 
   <br/><br/>
 
-  I adore writing, and one day, I'd love to retire as a writer, documenting different cultures. 
+  • I adore writing, and one day, I'd love to retire as a writer, documenting different cultures. 
   I want to start with the Luo culture, then learn more about the Mali Empire. After that, who knows?
 </p>
 
@@ -110,13 +110,13 @@ const Home = () => {
           </div>
 
           {/* Right side - Profile Image */}
-          <div className="relative flex-shrink-0 order-1 md:order-2">
+          {/* <div className="relative flex-shrink-0 order-1 md:order-2">
             <img
               src="/assets/IMG_2166.jpg"
               alt="Phylis Atieno"
               className="w-72 h-96 md:w-96 md:h-[550px] rounded-3xl object-cover shadow-2xl"
             />
-          </div>
+          </div> */}
         </div>
 
           <section className="flex flex-col md:flex-row justify-between items-start md:items-center gap-6">
