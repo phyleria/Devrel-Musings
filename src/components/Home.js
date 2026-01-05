@@ -77,7 +77,7 @@ const Home = () => {
 
   <br/><br/>
 
-  • As I transition to VC, I write deep dives on my Medium account and you can read them <a href="https://medium.com/@atienophyllis032" target="_blank" rel="noopener noreferrer">here</a>.
+  • As I transition to VC, I write deep dives on my Medium account and you can read them <a href="https://medium.com/@atienophyllis" target="_blank" rel="noopener noreferrer">here</a>.
 
   <br/><br/>
 
