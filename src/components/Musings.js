@@ -30,7 +30,7 @@ const articles = [
   {
     title: "Who Decides What Gets Funded in Africa?",
     category: "",
-    image: process.env.PUBLIC_URL + "/assets/firsts.jpg",
+    image: process.env.PUBLIC_URL + "/assets/terra.jpeg",
     url: "/blog/Who",
   },
 ];

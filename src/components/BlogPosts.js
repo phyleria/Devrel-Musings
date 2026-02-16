@@ -591,7 +591,13 @@ Today I was arguing with Hammed and Faheed about the recent Terrahaptix round an
 I was strongly against the idea that VC rounds are controlled by geopolitics. I just cannot fathom it. Part of my motivation for transitioning into venture capital is the belief that I can back bold, underrepresented founders building disruptive ideas that might otherwise be overlooked. So the thought that, even as a future fund manager, I could still be constrained by directives or conditions shaped by Western capital wasn’t something I had factored in.
 <br/> <br/>
 The argument started when I said it was a pity that African investors had passed on Terra that they had to raise from the West. The point made was that Terra is building in defense, and if, in reality, Africa’s defense ecosystem is heavily influenced or structured by larger global powers, then it makes sense that funding for that kind of company would also come from those same “bigger players.”
-I had thought that African VCs had skipped the deal because it’s hardware-heavy, capital-intensive, and doesn’t fit the typical venture model. Hardware and defense startups have longer procurement cycles, longer paths to liquidity, and don’t always fit within the usual 7–10 year fund lifecycle. And I also remembered a comment by Stephen Deng of DFS Lab pointing to infrastructure constraints and longer cycles as structural reasons African VCs might have passed.
+I had thought that African VCs had skipped the deal because it’s hardware-heavy, capital-intensive, and doesn’t fit the typical venture model. 
+Hardware and defense startups have longer procurement cycles, longer paths to liquidity, and don’t always fit within the usual 7–10 year fund lifecycle. 
+And I also remembered a comment by    <a
+          href="https://x.com/mrstephendeng/status/2010911005736661452"
+          className="text-blue-500 underline"
+        > Stephen Deng of DFS Lab
+        </a> pointing to infrastructure constraints and longer cycles as structural reasons African VCs might have passed.
 <br/><br/>
 But Faheed suggested that it might not just be about hardware risk or lack of benchmarks. It might also be about higher-level conditions, that for certain sectors like defense, African VCs don’t fully have a say in what gets funded because capital, policy, and control over key systems are shaped elsewhere.
 
