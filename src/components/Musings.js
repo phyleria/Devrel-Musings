@@ -27,6 +27,12 @@ const articles = [
     image: process.env.PUBLIC_URL + "/assets/firsts.jpg",
     url: "/blog/Firsts",
   },
+  {
+    title: "Who Decides What Gets Funded in Africa?",
+    category: "",
+    image: process.env.PUBLIC_URL + "/assets/firsts.jpg",
+    url: "/blog/Who",
+  },
 ];
 
 const Musings = () => {

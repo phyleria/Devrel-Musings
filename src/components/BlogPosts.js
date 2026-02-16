@@ -580,3 +580,30 @@ export const Firsts = () => (
   </div>
   
 );
+
+export const Who = () => (
+  <div className="max-w-5xl mx-auto p-5 bg-[#f6f4ef] mt-5 mb-20 rounded-lg shadow-lg">
+    <h1 className="text-3xl font-bold mb-4">Who Decides What Gets Funded in Africa?</h1>
+    <p className="text-lg mt-4 text-gray-600">
+        <hr className="border-2 border-gray-300" />    <br />
+
+Today I was arguing with Hammed and Faheed about the recent Terrahaptix round and, because I didn’t want to be called “naive” again, I decided to just dig deeper into it.
+I was strongly against the idea that VC rounds are controlled by geopolitics. I just cannot fathom it. Part of my motivation for transitioning into venture capital is the belief that I can back bold, underrepresented founders building disruptive ideas that might otherwise be overlooked. So the thought that, even as a future fund manager, I could still be constrained by directives or conditions shaped by Western capital wasn’t something I had factored in.
+<br/> <br/>
+The argument started when I said it was a pity that African investors had passed on Terra that they had to raise from the West. The point made was that Terra is building in defense, and if, in reality, Africa’s defense ecosystem is heavily influenced or structured by larger global powers, then it makes sense that funding for that kind of company would also come from those same “bigger players.”
+I had thought that African VCs had skipped the deal because it’s hardware-heavy, capital-intensive, and doesn’t fit the typical venture model. Hardware and defense startups have longer procurement cycles, longer paths to liquidity, and don’t always fit within the usual 7–10 year fund lifecycle. And I also remembered a comment by Stephen Deng of DFS Lab pointing to infrastructure constraints and longer cycles as structural reasons African VCs might have passed.
+<br/><br/>
+But Faheed suggested that it might not just be about hardware risk or lack of benchmarks. It might also be about higher-level conditions, that for certain sectors like defense, African VCs don’t fully have a say in what gets funded because capital, policy, and control over key systems are shaped elsewhere.
+
+<br/><br/>I think what we agreed on (or rather what I agreed on hehe) was that maybe African VCs couldn’t invest, not necessarily because they were blocked, but because the ecosystem itself operates within conditions created by bigger global players. We may have resources, talent, and ideas, but the governance and control of certain sectors are influenced externally. And if those broader conditions were different, perhaps the outcome would have been different too.
+I don’t think I fully understand this yet. 
+
+<br/><br/>My knowledge here is still growing so I’ll probably update my thinking (and this piece) as I get more clarity.
+
+
+      
+    </p>
+    
+  </div>
+  
+);

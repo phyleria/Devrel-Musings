@@ -8,7 +8,7 @@ import Music from "./components/Music";
 import Work from "./components/Work";
 
 
-import { FaithChanges, DX, OF, SamburuGirls, There, Firsts, IteratingDX } from "./components/BlogPosts";
+import { FaithChanges, DX, OF, SamburuGirls, There, Firsts, IteratingDX, Who } from "./components/BlogPosts";
 
 function App() {
   return (
@@ -27,6 +27,8 @@ function App() {
         <Route path="/blog/There" element={<There />} />
         <Route path="/blog/Firsts" element={<Firsts />} />
         <Route path="/blog/IteratingDX" element={<IteratingDX />} />
+        <Route path="/blog/Who" element={<Who />} />
+
 
       </Routes>
     </Router>
