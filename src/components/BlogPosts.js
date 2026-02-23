@@ -613,3 +613,37 @@ I don’t think I fully understand this yet.
   </div>
   
 );
+
+export const Prayed = () => (
+  <div className="max-w-5xl mx-auto p-5 bg-[#f6f4ef] mt-5 mb-20 rounded-lg shadow-lg">
+    <h1 className="text-3xl font-bold mb-4">To Those Who Pray for Us</h1>
+    <p className="text-lg mt-4 text-gray-600">
+        <hr className="border-2 border-gray-300" />    <br />
+
+Something just hit me today, that there are moments where someone else's prayer has carried me out of a place I genuinely 
+could not get out of myself. And I am so, so grateful for that.
+Because sometimes all you can manage is a mumble of the Lord's Prayer. Praying against what you're going through feels like trying to 
+lift a huge rock off your back and honestly, you'd rather just leave it there because you have no energy, even though 
+it's crushing you. 
+But in those moments, I've felt my strength come back because someone, somewhere, was praying for me, even when I had no 
+idea who it was.
+
+<br/> <br/> Like today. It's been days since I could properly open my heart to God. Days of just... nothing. Then out of 
+nowhere I started talking to Him, and before I knew it I felt the Holy Spirit again. That fire that had gone so quiet came 
+back. I found His presence again. I prayed past five minutes for the first time in days and I didn't want to stop.
+And this time I know who prayed for me. May God bless them and give back to them everything they've poured out.
+It's a painful thing, to want God, to know He's right there, but feel like you can't open your mouth to reach Him. 
+It used to make me so angry at myself, and that anger would just pull me further away. But today, someone's prayer brought
+ me back.
+So thank you to anyone who prays for others. It matters more than you know.
+And I pray that I do not forget to do the same for someone else.
+<br/><br/>
+
+If you're reading this, may God's grace cover us all. And remember what Jesus said: <i>"In this world you will find trouble. But take heart! I have overcome the world."</i>
+
+      
+    </p>
+    
+  </div>
+  
+);

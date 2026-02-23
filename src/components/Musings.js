@@ -33,6 +33,12 @@ const articles = [
     image: process.env.PUBLIC_URL + "/assets/terra.jpeg",
     url: "/blog/Who",
   },
+  {
+    title: "To Those Who Pray For Us",
+    category: "",
+    image: process.env.PUBLIC_URL + "/assets/Prayed.jpeg",
+    url: "/blog/Prayed",
+  },
 ];
 
 const Musings = () => {
