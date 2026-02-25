@@ -6,7 +6,7 @@ const books = [
   {
     title: "Homegoing",
     author: "Yaa Gyasi",
-    rating: "4/5",
+    rating: "⭐⭐⭐⭐",
     image: process.env.PUBLIC_URL + "/assets/Homegoing.jpeg",
     url: "/reads/homegoing",
   },
@@ -71,7 +71,7 @@ const Reads = () => {
               <div className="p-4 bg-[#f6f4ef]">
                 <h3 className="font-bold text-lg">{book.title}</h3>
                 <p className="text-sm text-gray-500">{book.author}</p>
-                <p className="text-sm text-gray-600 mt-1">⭐ {book.rating}</p>
+                <p className="text-sm text-gray-600 mt-1"> {book.rating}</p>
               </div>
             </div>
           ))}
