@@ -1,8 +1,12 @@
 import React from "react";
 import { Helmet } from 'react-helmet';
+import BlogLayout from "./BlogLayout";
+
 
 
 export const FaithChanges = () => (
+    <BlogLayout>
+
   <div className="max-w-5xl mx-auto p-5 bg-[#f6f4ef] mt-5 mb-20 rounded-lg shadow-lg">
     <h1 className="text-3xl font-bold mb-4">Faith Changes</h1>
     <p className="text-lg mt-4 text-gray-600">
@@ -49,9 +53,13 @@ export const FaithChanges = () => (
       my coping mechanisms. So, the question is—how do I learn to let them go?
     </p>
   </div>
+    </BlogLayout>
+
 );
 
 export const DX = () => (
+    <BlogLayout>
+
   <div className="max-w-5xl mx-auto p-5 bg-[#f6f4ef] mt-5 mb-20 rounded-lg shadow-lg">
     <h1 className="text-3xl font-bold mb-4">My Learnings and Strategies in Building Better Developer Experience</h1>
     <p className="text-lg mt-4 text-gray-600">
@@ -212,8 +220,12 @@ export const DX = () => (
       </p>
     </p>
   </div>
+    </BlogLayout>
+
 );
 export const OF = () => (
+    <BlogLayout>
+
   <div className="max-w-5xl mx-auto p-5 bg-[#f6f4ef] mt-5 mb-20 rounded-lg shadow-lg">
     <h1 className="text-3xl font-bold mb-4">Empowering Financial Communities through Open-Source Readiness</h1>
     <p className="text-lg mt-4 text-gray-600">
@@ -275,9 +287,13 @@ export const OF = () => (
       </p>
     </p>
   </div>
+    </BlogLayout>
+
 );
 
 export const SamburuGirls = () => (
+    <BlogLayout>
+
   <>
     <Helmet>
       <title>What is the Cost of Education for a Samburu Girl?</title>
@@ -452,8 +468,12 @@ export const SamburuGirls = () => (
       </p>
     </div>
   </>
+    </BlogLayout>
+
 );
 export const There = () => (
+    <BlogLayout>
+
   <div className="max-w-5xl mx-auto p-5 bg-[#f6f4ef] mt-5 mb-20 rounded-lg shadow-lg">
     <h1 className="text-3xl font-bold mb-4">"I’m There" – The Story Behind the Song
     </h1>
@@ -497,9 +517,13 @@ export const There = () => (
       <br /><br />The outro emphasizes God’s promise to us that he is always there, in everything he is always there and we just have to reach out, so I hope you reach today!
 
     </p></div>
+      </BlogLayout>
+
 );
 
 export const IteratingDX = () => (
+    <BlogLayout>
+
   <div className="max-w-5xl mx-auto p-5 bg-[#f6f4ef] mt-5 mb-20 rounded-lg shadow-lg">
     <h1 className="text-3xl font-bold mb-4">Iterating on Developer Experience</h1>
     <p className="text-lg mt-4 text-gray-600">
@@ -543,9 +567,13 @@ export const IteratingDX = () => (
 
     </p>
   </div>
+    </BlogLayout>
+
 );
 
 export const Firsts = () => (
+    <BlogLayout>
+
   <div className="max-w-5xl mx-auto p-5 bg-[#f6f4ef] mt-5 mb-20 rounded-lg shadow-lg">
     <h1 className="text-3xl font-bold mb-4">Firsts</h1>
     <p className="text-lg mt-4 text-gray-600">
@@ -578,10 +606,14 @@ export const Firsts = () => (
     </p>
     
   </div>
+    </BlogLayout>
+
   
 );
 
 export const Who = () => (
+    <BlogLayout>
+
   <div className="max-w-5xl mx-auto p-5 bg-[#f6f4ef] mt-5 mb-20 rounded-lg shadow-lg">
     <h1 className="text-3xl font-bold mb-4">Who Decides What Gets Funded in Africa?</h1>
     <p className="text-lg mt-4 text-gray-600">
@@ -611,10 +643,14 @@ I don’t think I fully understand this yet.
     </p>
     
   </div>
+    </BlogLayout>
+
   
 );
 
 export const Prayed = () => (
+    <BlogLayout>
+
   <div className="max-w-5xl mx-auto p-5 bg-[#f6f4ef] mt-5 mb-20 rounded-lg shadow-lg">
     <h1 className="text-3xl font-bold mb-4">To Those Who Pray for Us</h1>
     <p className="text-lg mt-4 text-gray-600">
@@ -645,5 +681,7 @@ If you're reading this, may God's grace cover us all. And remember what Jesus sa
     </p>
     
   </div>
+    </BlogLayout>
+
   
 );

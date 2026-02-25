@@ -13,31 +13,31 @@ const articles = [
     title: "What is the Cost of Education for a Samburu Girl?",
     category: "",
     image: process.env.PUBLIC_URL + "/assets/samburu.jpg",
-    url: "/blog/SamburuGirls",
+    url: "/blog/What-is-the-Cost-of-Education-for-a-Samburu-Girl?",
   },
   {
     title: "I’m There – The Story Behind the Song",
     category: "",
     image: process.env.PUBLIC_URL + "/assets/There.jpg",
-    url: "/blog/There",
+    url: "/blog/I’m-There-The-Story-Behind-the-Song",
   },
   {
     title: "Firsts (A 2024 Recap)",
     category: "",
     image: process.env.PUBLIC_URL + "/assets/firsts.jpg",
-    url: "/blog/Firsts",
+    url: "/blog/Firsts-A-2024-Recap",
   },
   {
     title: "Who Decides What Gets Funded in Africa?",
     category: "",
     image: process.env.PUBLIC_URL + "/assets/terra.jpeg",
-    url: "/blog/Who",
+    url: "/blog/Who-Decides-What-Gets-Funded-in-Africa",
   },
   {
     title: "To Those Who Pray For Us",
     category: "",
     image: process.env.PUBLIC_URL + "/assets/Prayed.jpeg",
-    url: "/blog/Prayed",
+    url: "/blog/To-Those-Who-Pray-For-Us",
   },
 ];
 
