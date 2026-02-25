@@ -5,10 +5,10 @@ import ArticlesGrid from "./components/ArticlesGrid";
 import Devrel from "./components/Devrel";
 import Musings from "./components/Musings";
 import Music from "./components/Music";
-import Work from "./components/Work";
+import Reads from "./components/Reads";
 
 
-import { FaithChanges, DX, OF, SamburuGirls, There, Firsts, IteratingDX, Who, Prayed } from "./components/BlogPosts";
+import { FaithChanges, DX, OF, SamburuGirls, There, Firsts, IteratingDX, Who, Prayed, Homegoing } from "./components/BlogPosts";
 
 function App() {
   return (
@@ -19,10 +19,11 @@ function App() {
         <Route path="/devrel" element={<Devrel />} />
         <Route path="/Musings" element={<Musings />} />
         <Route path="/Music" element={<Music />} />
-        <Route path="/Work" element={<Work />} />
+        <Route path="/Reads" element={<Reads />} />
         <Route path="/blog/faith-changes" element={<FaithChanges />} />
         <Route path="/blog/DX" element={<DX />} />
         <Route path="/blog/OF" element={<OF />} />
+        <Route path="/blog/IteratingDX" element={<IteratingDX />} />
         <Route path="/blog/faith-changes" element={<FaithChanges />} />
 <Route path="/blog/what-is-the-cost-of-education-for-a-samburu-girl" element={<SamburuGirls />} />
 <Route path="/blog/im-there-the-story-behind-the-song" element={<There />} />
@@ -33,8 +34,7 @@ function App() {
 <Route path="/blog/my-learnings-and-strategies-in-building-better-developer-experience" element={<DX />} />
 <Route path="/blog/empowering-financial-communities-through-open-source-readiness" element={<OF />} />
 <Route path="/blog/iterating-on-developer-experience" element={<IteratingDX />} />
-
-
+<Route path="/reads/homegoing" element={<Homegoing />} />
       </Routes>
     </Router>
   );

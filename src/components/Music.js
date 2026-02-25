@@ -58,9 +58,9 @@ const Musings = () => {
               </ul>
             </nav>
           </div>
-          <a href="/Work">
+          <a href="/Reads">
             <button className="mt-4 md:mt-0 px-4 py-2 border border-black hover:bg-gray-100 rounded-full">
-              See my work
+              See my reads
             </button>
             </a>
         </header>

@@ -685,3 +685,26 @@ If you're reading this, may God's grace cover us all. And remember what Jesus sa
 
   
 );
+
+export const Homegoing = () => (
+    <BlogLayout>
+
+  <div className="max-w-5xl mx-auto p-5 bg-[#f6f4ef] mt-5 mb-20 rounded-lg shadow-lg">
+    <h1 className="text-3xl font-bold mb-4">Homegoing</h1>
+    <p className="text-lg mt-4 text-gray-600">
+        <hr className="border-2 border-gray-300" />    <br />
+
+This was a coincidental read because for the first time I am questioning a lot of things I know about History and not only questioning but allowing myself to try and understand several views of the same story.
+
+I am understanding that sometimes it’s not a must to decide whether to hate or to love but existing in the middle is ok. I’m also realizing that growth doesn’t always come from reaching a final answer. Sometimes there is no neat ending, no clear resolution, and that’s okay as well. What you learn along the way is the real asset.
+
+This read helped me understand something about myself as well: I’m a process person. I find more meaning in thinking and unlearning than in the final result.
+      
+    </p>
+    
+  </div>
+    </BlogLayout>
+
+  
+);
+

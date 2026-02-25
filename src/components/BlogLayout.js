@@ -10,7 +10,7 @@ const BlogLayout = ({ children }) => {
           <Link to="/devrel" className="hover:text-black">DevRel</Link>
           <Link to="/Musings" className="hover:text-black">Musings</Link>
           <Link to="/Music" className="hover:text-black">Music</Link>
-          <Link to="/Work" className="hover:text-black">Work</Link>
+          <Link to="/Reads" className="hover:text-black">Reads</Link>
         </div>
       </nav>
       <Link
