@@ -8,7 +8,7 @@ import Music from "./components/Music";
 import Reads from "./components/Reads";
 
 
-import { FaithChanges, DX, OF, SamburuGirls, There, Firsts, IteratingDX, Who, Prayed, Homegoing } from "./components/BlogPosts";
+import { FaithChanges, DX, OF, SamburuGirls, There, Firsts, IteratingDX, Who, Prayed, Homegoing, Julie, Valentines, WhatDoesFeelingAliveMean } from "./components/BlogPosts";
 
 function App() {
   return (
@@ -34,6 +34,10 @@ function App() {
 <Route path="/blog/my-learnings-and-strategies-in-building-better-developer-experience" element={<DX />} />
 <Route path="/blog/empowering-financial-communities-through-open-source-readiness" element={<OF />} />
 <Route path="/blog/iterating-on-developer-experience" element={<IteratingDX />} />
+<Route path="/blog/julie-julia-and-me" element={<Julie />} />
+<Route path="/blog/valentines-day-2026" element={<Valentines />} />
+<Route path="/blog/what-does-feeling-alive-mean" element={<WhatDoesFeelingAliveMean />} />
+
 <Route path="/reads/homegoing" element={<Homegoing />} />
       </Routes>
     </Router>

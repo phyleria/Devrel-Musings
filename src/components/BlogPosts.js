@@ -708,3 +708,112 @@ This read helped me understand something about myself as well: I’m a process p
   
 );
 
+export const Julie = () => (
+    <BlogLayout>
+
+  <div className="max-w-5xl mx-auto p-5 bg-[#f6f4ef] mt-5 mb-20 rounded-lg shadow-lg">
+    <h1 className="text-3xl font-bold mb-4">Julie, Julia and Me</h1>
+    <p className="text-lg mt-4 text-gray-600">
+        <hr className="border-2 border-gray-300" />    <br />
+I am watching Julie and Julia and I'm reminded why I love movies like this… <br /><br />
+They have a way of having me reflect on the things in life that I have been accepting, even though I don't want to. 
+Things like giving into people’s perception of what I should be doing. <br /><br />
+Take for instance, I am currently transitioning into VC and it's like a walk of shame because it's almost a whole new 
+industry, but in order to get a role you have to talk and act like you absolutely understand it. And part of that has 
+to show when you talk to people, letting them know you’re transitioning, which, honestly, is a bit of a pain. <br /><br />
+I decided to look for venture fellow roles or internships so that I can somehow escape that expectation, but also 
+just use the moment to learn as much as I can, but not everyone seems to agree with that. They believe that I am 
+underselling myself, but the thing is, first of all, transitioning was a gut feeling and getting into the industry 
+in a junior role is a gut feeling as well. A gut feeling that I have tried to ignore so much because, like someone said, 
+I am coming from a whole Head of Marketing role… and just to digress, I want it to read ‘Head of Developer Ecosystem and 
+Marketing’ because managing the developer ecosystem was majorly the part of my previous role that I loved, but it seems 
+most people only focus the Marketing part. Don't get me wrong, I loved learning the ropes of marketing, but I wouldn't 
+say I was skilled at it because I feel like major parts of marketing depend on things you can't control, and I love seeing 
+the impact of my work mirror the work I have put in, but in marketing it's not always the case.<br /><br />
+Now back to where I was… so most people believe I am underselling myself, but the truth is I don't really care, and 
+I think this is a risky thing for someone like me. The reason is, this is not only my life and there are loving people 
+who have high expectations of me, and going to a junior position where I probably won't be earning much, or earning 
+anything at all, will be a disappointment to them. And I get it, but the truth is I have almost always loved living 
+unconventionally, I’ve trusted my gut and followed the things I love, and it hasn’t always been smooth sailing in my 
+relationships with my loved ones. And so I'm back once again on that road where I have to defy their expectations of me, 
+and this time it won't only be my loved ones, it will be my friends too. <br /><br />
+Oh, and by loved ones I mean family :)
+      
+    </p>
+    
+  </div>
+    </BlogLayout>
+
+  
+);
+
+export const Valentines = () => (
+    <BlogLayout>
+
+  <div className="max-w-5xl mx-auto p-5 bg-[#f6f4ef] mt-5 mb-20 rounded-lg shadow-lg">
+    <h1 className="text-3xl font-bold mb-4">Valentine’s Day 2026</h1>
+    <p className="text-lg mt-4 text-gray-600">
+        <hr className="border-2 border-gray-300" />    <br />
+It's 14th Feb, 12:51am and I'm still awake. I'm doing something else but I've got time to write so I thought I might as 
+well do it. <br /><br />
+This year started with so many changes career wise and I've just been coasting. Honestly, I don't know what lies ahead 
+but like a child held in its father's hands, I know I'm safe and I'm not worried. <br /><br />
+This day reminds me of how old I am turning and yet… no partner. Wait… let me set the record straight, there's no 
+expectation of one. That longing died long ago when I fell in love with the Lord and when I speak of this I'm filled 
+with a longing just for Him.<br /><br />
+Oh, to love and be loved immeasurably in one's all flaws is something I never thought I needed but I got, and that love 
+has diminished the desire for all other things. The desires are still there but I'd rather have Him first.<br /><br />
+And now as I am almost nearing my mid-twenties, I sometimes catch myself realizing that I’ve never had a partner. It’s 
+not because I feel like I should have one at this age, but it’s just an observation. Nowadays, when that thought comes, 
+it’s always followed by a sense of peace: “When the time is right, I, the Lord, will make it happen.” <br /><br />
+But before I reached this place of peace, I struggled with “what ifs.” What if God, in all His perfection, never planned 
+for me to get married? Eventually, I realized it wouldn’t matter, whether I have a partner or not, whether I remain like 
+this forever, because my desire to follow Him outweighs the desire for a partner. <br /><br />
+And it’s at this point that I always remember something I once read (I can’t recall the source): <i>“I want to follow the 
+Lord and make Him the priority of my life, such that any man who pursues me must know Him first.”</i> <br /><br />
+So in all of this, I know that his plans are way better… unimaginably better than mine.
+
+      
+    </p>
+    
+  </div>
+    </BlogLayout>
+
+  
+);
+
+export const WhatDoesFeelingAliveMean = () => (
+    <BlogLayout>
+
+  <div className="max-w-5xl mx-auto p-5 bg-[#f6f4ef] mt-5 mb-20 rounded-lg shadow-lg">
+    <h1 className="text-3xl font-bold mb-4">What Does Feeling Alive Mean?</h1>
+    <p className="text-lg mt-4 text-gray-600">
+        <hr className="border-2 border-gray-300" />    <br />
+<i>Writing this while listening to Mon Rovia’s Heavy foot...</i> <br /><br />
+What does feeling alive mean? This is a controversial question, well, for me at least. I'm speaking on a music level, 
+because lately I feel like I miss a different kind of alive. <br /><br />
+I remember when I decided to cut off secular music, I knew why, and my decision is still the same. Those kinds of music 
+still have no pull on me ever since I made that choice. <br /><br />
+The thing is, whenever I play the guitar, most of my inspiration comes from alternative music, music I loved listening 
+to previously. Artists like Joe Bel, Mon Rovia, Noah Kahan. They made me feel alive and want to make music again and again 
+and again. And when I stopped listening to them, it felt so hard to write music. <br /><br />
+The other thing is, when I started fully listening to Christian music, I felt so alive as well, but I've come to realize 
+I feel more alive in my spirit because I am feeding the spirit, not the flesh. <br /><br />
+Now, as time goes by, I crave the aliveness I felt with my previously loved songs. They made me feel more alive in the 
+flesh. It's not that they are vulgar or anything, I was quite intentional about whatever artist or song I listened to. 
+But there's something about them and their songs that makes me feel alive, that makes life feel worth creating art out 
+of every single day. <br /><br />
+And don't get me wrong, I am also inspired to write by artists like Claudia Isaki, Jarvis Campbell, Josiah Queen, just 
+not on the same level. I hope you get my point. <br /><br />
+Currently, what I know is, I may feel alive listening to those other songs, but in the long run it may only last a 
+short while. And I need the long run. <br /><br />
+So I have not made a choice yet. But I know I'll choose the one that makes me truly alive even when it’s hard :)
+      
+    </p>
+    
+  </div>
+    </BlogLayout>
+
+  
+);
+

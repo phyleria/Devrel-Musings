@@ -13,31 +13,49 @@ const articles = [
     title: "What is the Cost of Education for a Samburu Girl?",
     category: "",
     image: process.env.PUBLIC_URL + "/assets/samburu.jpg",
-    url: "/blog/What-is-the-Cost-of-Education-for-a-Samburu-Girl?",
+    url: "/blog/what-is-the-cost-of-education-for-a-samburu-girl?",
   },
   {
     title: "I’m There – The Story Behind the Song",
     category: "",
     image: process.env.PUBLIC_URL + "/assets/There.jpg",
-    url: "/blog/I’m-There-The-Story-Behind-the-Song",
+    url: "/blog/im-there-the-story-behind-the-song",
   },
   {
     title: "Firsts (A 2024 Recap)",
     category: "",
     image: process.env.PUBLIC_URL + "/assets/firsts.jpg",
-    url: "/blog/Firsts-A-2024-Recap",
+    url: "/blog/firsts-a-2024-recap",
   },
   {
     title: "Who Decides What Gets Funded in Africa?",
     category: "",
     image: process.env.PUBLIC_URL + "/assets/terra.jpeg",
-    url: "/blog/Who-Decides-What-Gets-Funded-in-Africa",
+    url: "/blog/who-decides-what-gets-funded-in-africa",
   },
   {
     title: "To Those Who Pray For Us",
     category: "",
     image: process.env.PUBLIC_URL + "/assets/Prayed.jpeg",
-    url: "/blog/To-Those-Who-Pray-For-Us",
+    url: "/blog/to-those-who-pray-for-us",
+  },
+  {
+    title: "Julie, Julia and Me",
+    category: "",
+    image: process.env.PUBLIC_URL + "/assets/julie-and-julia.jpg",
+    url: "/blog/julie-julia-and-me",
+  },
+  {
+    title: "Valentine’s Day 2026",
+    category: "",
+    image: process.env.PUBLIC_URL + "/assets/Valentine.jpeg",
+    url: "/blog/valentines-day-2026",
+  },
+  {
+    title: "What Does Feeling Alive Mean?",
+    category: "",
+    image: process.env.PUBLIC_URL + "/assets/Alive.jpeg",
+    url: "/blog/what-does-feeling-alive-mean",
   },
 ];
 
@@ -79,7 +97,7 @@ const Musings = () => {
 
         <section className="p-6 rounded-lg shadow-md mb-10">
           <p className="text-lg mt-4 text-gray-600">
-            This is a curation of blogs on random stuff I care about.
+            This is a curation of blogs on random stuff I think about, some deeply, some not as much
           </p>
         </section>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 p-4">
