@@ -747,40 +747,6 @@ Oh, and by loved ones I mean family :)
   
 );
 
-export const Valentines = () => (
-    <BlogLayout>
-
-  <div className="max-w-5xl mx-auto p-5 bg-[#f6f4ef] mt-5 mb-20 rounded-lg shadow-lg">
-    <h1 className="text-3xl font-bold mb-4">Valentine’s Day 2026</h1>
-    <p className="text-lg mt-4 text-gray-600">
-        <hr className="border-2 border-gray-300" />    <br />
-It's 14th Feb, 12:51am and I'm still awake. I'm doing something else but I've got time to write so I thought I might as 
-well do it. <br /><br />
-This year started with so many changes career wise and I've just been coasting. Honestly, I don't know what lies ahead 
-but like a child held in its father's hands, I know I'm safe and I'm not worried. <br /><br />
-This day reminds me of how old I am turning and yet… no partner. Wait… let me set the record straight, there's no 
-expectation of one. That longing died long ago when I fell in love with the Lord and when I speak of this I'm filled 
-with a longing just for Him.<br /><br />
-Oh, to love and be loved immeasurably in one's all flaws is something I never thought I needed but I got, and that love 
-has diminished the desire for all other things. The desires are still there but I'd rather have Him first.<br /><br />
-And now as I am almost nearing my mid-twenties, I sometimes catch myself realizing that I’ve never had a partner. It’s 
-not because I feel like I should have one at this age, but it’s just an observation. Nowadays, when that thought comes, 
-it’s always followed by a sense of peace: “When the time is right, I, the Lord, will make it happen.” <br /><br />
-But before I reached this place of peace, I struggled with “what ifs.” What if God, in all His perfection, never planned 
-for me to get married? Eventually, I realized it wouldn’t matter, whether I have a partner or not, whether I remain like 
-this forever, because my desire to follow Him outweighs the desire for a partner. <br /><br />
-And it’s at this point that I always remember something I once read (I can’t recall the source): <i>“I want to follow the 
-Lord and make Him the priority of my life, such that any man who pursues me must know Him first.”</i> <br /><br />
-So in all of this, I know that his plans are way better… unimaginably better than mine.
-
-      
-    </p>
-    
-  </div>
-    </BlogLayout>
-
-  
-);
 
 export const WhatDoesFeelingAliveMean = () => (
     <BlogLayout>
