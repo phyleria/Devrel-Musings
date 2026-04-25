@@ -39,7 +39,7 @@ const Home = () => {
                 • I have been in DevRel for about 3 years and I sometimes share my experiences in the 
                 "Learnings from DevRel" page, if you'd like to check it out.
                 <br/><br/>
-                • As I transition to VC, I write deep dives on my Medium account and you can read them <a href="https://medium.com/@atienophyllis" target="_blank" rel="noopener noreferrer">here</a>.
+                • As I transition to VC, I write deep dives on my Medium account and you can read them <a href="https://medium.com/@atienophyllis" target="_blank" rel="noopener noreferrer"><strong>here</strong></a>.
                 <br/><br/>
                 • I love music!!! I honestly don't think I say it enough. Anyway, I write and play when I have bursts of creativity 
                 (which seemed a lot more before adulting hit me). You'll find some of the recordings in the "Music" page.
