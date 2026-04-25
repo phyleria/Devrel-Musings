@@ -10,6 +10,13 @@ const books = [
     image: process.env.PUBLIC_URL + "/assets/Homegoing.jpeg",
     url: "/reads/homegoing",
   },
+  {
+    title: "Things Fall Apart",
+    author: "Chinua Achebe",
+    rating: "⭐⭐⭐",
+    image: process.env.PUBLIC_URL + "/assets/Things Fall Apart.jpeg",
+    url: "/reads/things-fall-apart",
+  },
 ];
 
 const Reads = () => {

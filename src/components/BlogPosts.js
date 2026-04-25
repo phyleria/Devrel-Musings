@@ -707,6 +707,85 @@ This read helped me understand something about myself as well: I’m a process p
 
   
 );
+export const ThingsFallApart = () => (
+    <BlogLayout>
+
+  <div className="max-w-5xl mx-auto p-5 bg-[#f6f4ef] mt-5 mb-20 rounded-lg shadow-lg">
+    <h1 className="text-3xl font-bold mb-4">Things Fall Apart</h1>
+    <p className="text-lg mt-4 text-gray-600">
+        <hr className="border-2 border-gray-300" />    <br />
+
+ <p> <strong>15th April 2026</strong>  </p>
+        <br />
+  
+  <p> I'm reading <em>Things Fall Apart</em> by Chinua Achebe, and I felt compelled to look him up online. 
+  The reason is that, while reading the part where the missionaries arrive in Mbanta and Nwoye feels drawn 
+  to Christianity, it struck me that only someone who has had a similar experience with God could write like that.</p> <br/>
+ 
+      <p>So I searched for him and found that he was actually brought up in a Christian home, but later explored 
+        the similarities, or rather the coexistence, between Christianity and traditional cultures. That wasn’t 
+        what I expected to find. Then I opened a tab with one of his famous quotes and saw: <i>“If you only hear one 
+        side of the story, you have no understanding at all.”</i> And I thought… this again? 
+</p><br/>
+ 
+   <p>That idea was a major theme in <i>Homegoing</i>, my last read. And as I'm writing this, I'm reminded of a 
+   recent conversation I had with friends about how you're meant to read certain books in specific seasons of 
+   your life.</p> <br/>
+ 
+  <p>I agreed with that, because I've often picked up a book and couldn't get past the first few pages because 
+    it just didn't click. But years later, I'd return to the same book and would love it. This has happened 
+    to me several times, especially with Chimamanda's books.</p> <br/>
+
+      
+ <p>I now remember that we had <i>Things Fall Apart</i> in our home library when I was younger. 
+ I can't recall whether I actually read it, which is unusual for me, because I tend to remember 
+ every book I've read.</p>  <br/>
+  
+ 
+<p>It makes me think I may have tried to read it but didn't really understand or connect with it at the time. 
+  Reading it now, I realise that even a child of about nine or ten should have fully grasped it. So maybe I simply 
+  wasn't ready for it and was meant to read it later in life, which happens to be now.</p> <br/>
+ 
+  <p>I'm not done yet, but I should finish it this weekend and will share my reflections once I do.</p><br/>
+
+  <div class="section-divider" aria-hidden="true">· · ·</div> <br />
+
+    
+ <p> <strong>25th April 2026</strong>  </p>
+        <br />
+ 
+      <p>I finished reading <i>Things Fall Apart</i> today, and interestingly, as I neared the end, I felt like I 
+      already knew its ending, even though, as I mentioned before, I don't remember reading the book. The ending was 
+      really just plain; it didn't have me sitting there wondering what I had just read, but I think it's because it 
+      felt familiar.</p>        <br />
+
+      <p>I've been trying to sit on it and take note of what I'd learnt, but I am blank. So I've decided to write so that I can
+      trigger my thoughts.</p>        <br />
+ 
+      <p>First of all, I understood Okonkwo and his zeal to work hard so he can make a name for himself. But I think he 
+        was too blinded by that to even stop and consider how his zeal affected him and the people he loved. I would 
+        like to say he followed that zeal blindly, and it hurt him, but not only him, also the people who surrounded him.
+        </p><br/>
+
+        <p>Something that's almost cliche that I noted, is that regardless of the goal you have, you should 
+          factor in that things may change. And when things change, the things you value may also change, so don’t be rigid in 
+          holding on to past desires just to stay true to previous goals. When things happen that call you to rethink, 
+          take some time and do so, but don’t let yourself be guided by blind devotion to something that is slipping from 
+          you.</p><br/>
+ 
+     <p>In all of this, the major thing that led to his tragedy was his anger. And so I believe, we should also learn to 
+      know what the vice is in our own lives, that thing you know is hard for you to handle, and most times clouds 
+      your decisions and reasoning.</p><br/>
+ 
+      <p>I loved Chinua Achebe's writing though I found it a bit too simple. I appreciate it regardless because 
+        I didn't have to look up complicated words like with the rest of the books I read, lol.</p><br/>
+
+      <p>Really looking to add more of my thoughts to this when more things click, 'cause I feel this review is so basic&nbsp;:)</p>
+
+</p>
+  </div>
+    </BlogLayout>
+);
 
 export const Julie = () => (
     <BlogLayout>

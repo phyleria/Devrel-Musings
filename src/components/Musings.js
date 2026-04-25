@@ -45,12 +45,7 @@ const articles = [
     image: process.env.PUBLIC_URL + "/assets/julie-and-julia.jpg",
     url: "/blog/julie-julia-and-me",
   },
-  {
-    title: "Valentine’s Day 2026",
-    category: "",
-    image: process.env.PUBLIC_URL + "/assets/Valentine.jpeg",
-    url: "/blog/valentines-day-2026",
-  },
+  
   {
     title: "What Does Feeling Alive Mean?",
     category: "",
