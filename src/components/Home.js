@@ -33,8 +33,6 @@ const Home = () => {
                 Hi, I'm Phylis 👋🏽
               </h1>
               <p className="text-sm text-gray-700 leading-relaxed mb-2">
-                • I'm a DevRel with experience in community management, currently transitioning into Venture Capital.
-                <br/><br/>
                 • I love doing a lot of things, and someone (I look up to) once asked me, "Why not just master one?" 
                 But I think I have the time so why not? (at least for now, lol).
                 <br/><br/>
