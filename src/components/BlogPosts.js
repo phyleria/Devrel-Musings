@@ -816,7 +816,6 @@ anything at all, will be a disappointment to them. And I get it, but the truth i
 unconventionally, I’ve trusted my gut and followed the things I love, and it hasn’t always been smooth sailing in my 
 relationships with my loved ones. And so I'm back once again on that road where I have to defy their expectations of me, 
 and this time it won't only be my loved ones, it will be my friends too. <br /><br />
-Oh, and by loved ones I mean family :)
       
     </p>
     
