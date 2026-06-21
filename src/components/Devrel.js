@@ -42,19 +42,19 @@ const Devrel = () => {
                   </a>
                 </li>
                 <li>
-                  <a href="/Musings" className="hover:text-gray-600">
+                  <a href="/musings" className="hover:text-gray-600">
                     Musings
                   </a>
                 </li>
                 <li>
-                  <a href="/Music" className="hover:text-gray-600">
+                  <a href="/music" className="hover:text-gray-600">
                     Music
                   </a>
                 </li>
               </ul>
             </nav>
           </div>
-          <a href="/Reads">
+          <a href="/reads">
             <button className="mt-4 md:mt-0 px-4 py-2 border border-black hover:bg-gray-100 rounded-full">
               See my reads
             </button>

@@ -898,14 +898,14 @@ By chapter twenty-three, I am in awe of how Teju weaves in so many themes in the
  145, I learn that the mum was white and that answers a question I'd had, of why it was so easy for her to go and settle 
  abroad. Not that it wasn’t as easy for other Africans at that time, but there was an undertone in how Teju wrote it that 
  made me feel there was something to it. It also explained why the narrator says he used to get stares because of his color
-  when he used to go to the market while young. I had thought it might have been because of his light skin, like 
-  some Nigerians are. And it also explained why one of the market vendors had assumed he was rich until he spoke Yoruba; 
+  when he went to the market while young. I had thought it might have been because of his light skin, like 
+  some Nigerians have. And it also explained why one of the market vendors had assumed he was rich until he spoke Yoruba; 
   I had wondered before if it was just his clothes.
 <br/><br/>
 
 A few pages later, around 153, it saddened me that he lies to Chinedu. Having been in a similar situation myself, I think 
 everyone has, where you're trying to get to something, to achieve something, and you meet someone who's already done it, 
-and that person ignores you, or in this case, lies to you. And it hurts. I personally vowed that if I'm ever on the other 
+and that person ignores you, or in this case, lies to you, and it hurts. I personally vowed that if I'm ever on the other 
 end of that, I'll try to be kind. So reading the narrator doing the opposite kind of saddened me.
 <br/><br/>
 
@@ -913,7 +913,7 @@ When I finally finished the book, all I could of think was, ‘... what was that
 and find a review, maybe to get answers to the questions I had, or just to have someone else's mind to pick (to agree or 
 disagree with). But before that, there was something I felt particularly on page 146 that I wanted to sit with. Just over 
 the last week, I'd been in a meeting with Hammed and Faheed (my ex-colleagues who turned into good friends) and I was 
-arguing, as I always do, that there reaches a point in someone's life where the environment they grew up in stops being 
+arguing, as I always do,lol, that there reaches a point in someone's life where the environment they grew up in stops being 
 an excuse for how they act as a grown-up. At some point you have to be accountable, and work on the traits you know do 
 more harm than good in your relationships with others. Hammed disagreed, using Nigeria as an example, he said there's a 
 certain level of negativity there that kills even the hope of becoming a better person, that you can only do your best 
@@ -924,7 +924,7 @@ disagreeing but after reading this book, I've made it a point to extend grace.
 
 The last time I was in Nigeria, I was kind of indifferent. I just saw it as a different country with its own environment 
 and way of doing things, and I've actually been meaning to go back. But Faheed and Hammed keep telling me I'll never 
-like it there, and I'm always against that, because I did like it the last time (apart from the unbearable heat). But 
+like it there, and I'm always against that, because I did like it the last time (apart from the heat). But 
 now I'm starting to wonder, are they right? Do I want to go back because my perception right now is clouded by what 
 I experienced last time, when the only places I really got to experience were the affluent ones? I don't know the answer 
 to that yet. Hopefully I'll find out the next time I visit.
