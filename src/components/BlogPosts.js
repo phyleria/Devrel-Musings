@@ -870,7 +870,7 @@ export const EveryDayIsForTheThief = () => (
         <hr className="border-2 border-gray-300" />    <br />
 I've just started reading Every Day Is for the Thief, and it instantly feels like I'm back to reading one of the books I 
 used to read while young. There was a particular one I loved, and had reread so many times I lost count, though I can't 
-remember its title now. All I know is I learned about DT Dobie from that book. I remember asking my mum, the first time 
+remember its title now. All I know is I learned about DT Dobie from it. I remember asking my mum, the first time 
 I read it, "Mum, what is TT Tobie?" In my defense that’s how it was written, it was mimicking an accent. She read it for 
 herself and went, "Oooh, you mean DT Dobie," and explained it to me. Back then I used to ask her a lot of questions while 
 I read, and she'd pause whatever she was doing to answer me. Writing this, I kind of wish I could go back to those fond 
