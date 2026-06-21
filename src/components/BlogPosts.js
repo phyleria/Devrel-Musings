@@ -922,7 +922,7 @@ somewhere better, their temperament would naturally be lower, because they've ha
 disagreeing but after reading this book, I've made it a point to extend grace.
 <br/><br/>
 
-The last time I was in Nigeria, I was kind of indifferent. I just saw it as a different country with its own environment 
+The last time I was in Nigeria, I was drawn to it. I saw it as a different country with its own environment 
 and way of doing things, and I've actually been meaning to go back. But Faheed and Hammed keep telling me I'll never 
 like it there, and I'm always against that, because I did like it the last time (apart from the heat). But 
 now I'm starting to wonder, are they right? Do I want to go back because my perception right now is clouded by what 
