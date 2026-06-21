@@ -861,3 +861,80 @@ So I have not made a choice yet. But I know I'll choose the one that makes me tr
   
 );
 
+export const EveryDayIsForTheThief = () => (
+    <BlogLayout>
+
+  <div className="max-w-5xl mx-auto p-5 bg-[#f6f4ef] mt-5 mb-20 rounded-lg shadow-lg">
+    <h1 className="text-3xl font-bold mb-4">Every Day Is for the Thief</h1>
+    <p className="text-lg mt-4 text-gray-600">
+        <hr className="border-2 border-gray-300" />    <br />
+I've just started reading Every Day Is for the Thief, and it instantly feels like I'm back to reading one of the books I 
+used to read while young. There was a particular one I loved, and had reread so many times I lost count, though I can't 
+remember its title now. All I know is I learned about DT Dobie from that book. I remember asking my mum, the first time 
+I read it, "Mum, what is TT Tobie?" In my defense that’s how it was written, it was mimicking an accent. She read it for 
+herself and went, "Oooh, you mean DT Dobie," and explained it to me. Back then I used to ask her a lot of questions while 
+I read, and she'd pause whatever she was doing to answer me. Writing this, I kind of wish I could go back to those fond 
+times. <br/><br/>
+Chapter one centers on corruption and how not participating in it is expensive, because you end up paying for it with your 
+time instead. Abdul, the immigration officer the narrator interacts with makes a point of refusing physical cash, and 
+you'd think that kind of strict standard would prevent corruption, but there's still a structured form of it happening. 
+<br/><br/>
+
+By Chapter Three, I found myself thinking about Welcome to Lagos. It was such a sweet book, and I remember Chief Sandayo 
+from it, who had been part of the government and had tried so hard to fight corruption and stay clean, but eventually got 
+killed by the very system he was trying to fight off.
+<br/><br/>
+
+In Chapter Five, I started realizing this was probably written in the early or mid-2000s because it talks about when 
+internet cafés first started in Africa, and the early days of Yahoo in Nigeria. And that made me think that, given how 
+Nigeria is often negatively portrayed in those aspects now, the author might feel like he contributed to that. Because 
+maybe at the time he was writing, he was offering a healthy criticism of the country, helping stir conversations around 
+corruption and fraud. But now, having (personally) seen how Nigerians react to news and stories covering these issues, 
+I believe they are tired of being portrayed that way. And honestly, I totally get it.
+<br/><br/>
+
+By chapter twenty-three, I am in awe of how Teju weaves in so many themes in the story.  He brings up corruption, history,
+ politics, family, relationships, friendships, spirituality, art, music, and socioeconomic status. Somewhere around page 
+ 145, I learn that the mum was white and that answers a question I'd had, of why it was so easy for her to go and settle 
+ abroad. Not that it wasn’t as easy for other Africans at that time, but there was an undertone in how Teju wrote it that 
+ made me feel there was something to it. It also explained why the narrator says he used to get stares because of his color
+  when he used to go to the market while young. I had thought it might have been because of his light skin, like 
+  some Nigerians are. And it also explained why one of the market vendors had assumed he was rich until he spoke Yoruba; 
+  I had wondered before if it was just his clothes.
+<br/><br/>
+
+A few pages later, around 153, it saddened me that he lies to Chinedu. Having been in a similar situation myself, I think 
+everyone has, where you're trying to get to something, to achieve something, and you meet someone who's already done it, 
+and that person ignores you, or in this case, lies to you. And it hurts. I personally vowed that if I'm ever on the other 
+end of that, I'll try to be kind. So reading the narrator doing the opposite kind of saddened me.
+<br/><br/>
+
+When I finally finished the book, all I could of think was, ‘... what was that ending.’ My first instinct was to go online 
+and find a review, maybe to get answers to the questions I had, or just to have someone else's mind to pick (to agree or 
+disagree with). But before that, there was something I felt particularly on page 146 that I wanted to sit with. Just over 
+the last week, I'd been in a meeting with Hammed and Faheed (my ex-colleagues who turned into good friends) and I was 
+arguing, as I always do, that there reaches a point in someone's life where the environment they grew up in stops being 
+an excuse for how they act as a grown-up. At some point you have to be accountable, and work on the traits you know do 
+more harm than good in your relationships with others. Hammed disagreed, using Nigeria as an example, he said there's a 
+certain level of negativity there that kills even the hope of becoming a better person, that you can only do your best 
+just to survive, because the rest is left for people who grew up in better environments. He said if someone grows up 
+somewhere better, their temperament would naturally be lower, because they've had the good things in life. I was still 
+disagreeing but after reading this book, I've made it a point to extend grace.
+<br/><br/>
+
+The last time I was in Nigeria, I was kind of indifferent. I just saw it as a different country with its own environment 
+and way of doing things, and I've actually been meaning to go back. But Faheed and Hammed keep telling me I'll never 
+like it there, and I'm always against that, because I did like it the last time (apart from the unbearable heat). But 
+now I'm starting to wonder, are they right? Do I want to go back because my perception right now is clouded by what 
+I experienced last time, when the only places I really got to experience were the affluent ones? I don't know the answer 
+to that yet. Hopefully I'll find out the next time I visit.
+
+      
+    </p>
+    
+  </div>
+    </BlogLayout>
+
+  
+);
+

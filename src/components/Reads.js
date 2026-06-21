@@ -17,6 +17,14 @@ const books = [
     image: process.env.PUBLIC_URL + "/assets/Things Fall Apart.jpeg",
     url: "/reads/things-fall-apart",
   },
+
+   {
+    title: "Every Day is for the Thief",
+    author: "Teju Cole",
+    rating: "⭐⭐⭐⭐",
+    image: process.env.PUBLIC_URL + "/assets/Everyday is for the thief.jpg",
+    url: "/reads/every-day-is-for-the-thief",
+  },
 ];
 
 const Reads = () => {

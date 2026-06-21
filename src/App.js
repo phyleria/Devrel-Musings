@@ -8,7 +8,7 @@ import Music from "./components/Music";
 import Reads from "./components/Reads";
 
 
-import { FaithChanges, DX, OF, SamburuGirls, There, Firsts, IteratingDX, Who, Prayed, Homegoing, Julie, WhatDoesFeelingAliveMean, ThingsFallApart } from "./components/BlogPosts";
+import { FaithChanges, DX, OF, SamburuGirls, There, Firsts, IteratingDX, Who, Prayed, Homegoing, Julie, WhatDoesFeelingAliveMean, ThingsFallApart, EveryDayIsForTheThief } from "./components/BlogPosts";
 
 function App() {
   return (
@@ -39,6 +39,8 @@ function App() {
 
 <Route path="/reads/homegoing" element={<Homegoing />} />
 <Route path="/reads/things-fall-apart" element={<ThingsFallApart />} />
+<Route path="/reads/every-day-is-for-the-thief" element={<EveryDayIsForTheThief />} />
+
       </Routes>
     </Router>
   );
