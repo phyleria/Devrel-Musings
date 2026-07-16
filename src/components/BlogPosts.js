@@ -950,9 +950,9 @@ I loved doing. Just a few weeks after I wrote that article, I received a rejecti
 already gotten. It stung, but it didn’t faze me and I thought I would handle it well. But when I got another 
 rejection, I caved and felt the worst I had felt in years. I cried for a whole day. <br/><br/>
 In all this, I remember saying in my conversations with God that I would cry, and I would go through the emotions 
-for as long as it took me, but one thing I wouldn’t do, was question Him. I didn’t know what He was doing but I 
+for as long as it took me, but one thing I wouldn’t do, was question Him. I told Him, I didn’t know what He was doing but I 
 would NEVER question Him. And after that day, I continued as if nothing had happened. <br/><br/>
-Now fast forward to today, I was having a conversation with my Managing Partner (yes, it’s almost three months 
+Now fast forward to today, I was having a conversation with my General Partner (yes, it’s almost three months 
 into my new role), and when I tell you God knows what He’s doing? He knows what He’s doing like madd. <br/><br/>
 We were chatting about my experience so far, how I’m finding my role, and everything in between. Somewhere in 
 the conversation, we started talking about why she started the fund and why I decided to transition from tech to 
