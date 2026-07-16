@@ -938,3 +938,41 @@ to that yet. Hopefully I'll find out the next time I visit.
   
 );
 
+export const GodKnowsWhatHeIsDoingLikeMad = () => (
+    <BlogLayout>
+
+  <div className="max-w-5xl mx-auto p-5 bg-[#f6f4ef] mt-5 mb-20 rounded-lg shadow-lg">
+    <h1 className="text-3xl font-bold mb-4">God Knows What He Is Doing Like Mad</h1>
+    <p className="text-lg mt-4 text-gray-600">
+        <hr className="border-2 border-gray-300" />    <br />
+A few months ago, I wrote this: https://phylis-atieno.vercel.app/blog/julie-julia-and-me <br/><br/>
+I wrote it while I was in a very, very confused state. I didn’t know what I was doing, and I felt stupid. 
+Stupid for thinking I even had the liberty to pursue something simply because I thought it would be something 
+I loved doing. Just a few weeks after I wrote that article, I received a rejection from a role I thought I had 
+already gotten. It stung, but it didn’t faze me and I thought I would handle it well. But when I got another 
+rejection, I caved and felt the worst I had felt in years. I cried for a whole day. <br/><br/>
+In all this, I remember saying in my conversations with God that I would cry, and I would go through the emotions 
+for as long as it took me but one thing I wouldn’t do, was question Him. I didn’t know what He was doing but I 
+would NEVER question Him. And after that day, I continued as if nothing had happened. <br/><br/>
+Now fast forward to today, I was having a conversation with my Managing Partner (yes, it’s almost three months 
+into my new role), and when I tell you God knows what He’s doing, He knows what He’s doing like madd. <br/><br/>
+We were chatting about my experience so far, how I’m finding my role, and everything in between. Somewhere in 
+the conversation, we started talking about why she started the fund and why I decided to transition from tech to 
+venture capital. Before I could even answer, she told me she had asked because she was envious that I got to simply 
+change direction and pursue what I wanted, instead of being drawn to the comfortable jobs and the expected life path. 
+Then she asked me what decisions led me to the fund. <br/><br/>
+Honestly, I didn’t know what to say. But the answer is in the last paragraph of that article I had previously written. What I never want is to one day think about what might have been if I had just done something.  <br/><br/>
+We talked about a lot of things, and maybe one day I’ll write about that conversation. But as we were speaking, I knew, 
+100%, that none of this was by chance. Before writing this, I went back and looked at my dream items list that I had 
+written at the beginning of the year; the kind of company I wanted to work for, the kind of team I wanted to be part of, 
+and the kind of work I wanted to do. And this is it, every single thing. <br/><br/>
+So when I say God knows what He’s doing, He knows what He’s doing like madd.
+
+      
+    </p>
+    
+  </div>
+    </BlogLayout>
+
+
+);

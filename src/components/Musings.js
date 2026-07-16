@@ -52,6 +52,12 @@ const articles = [
     image: process.env.PUBLIC_URL + "/assets/Alive.jpeg",
     url: "/blog/what-does-feeling-alive-mean",
   },
+  {
+    title: "God Knows What He Is Doing Like Mad",
+    category: "",
+    image: process.env.PUBLIC_URL + "/assets/God Knows.JPG",
+    url: "/blog/God-knows-what-He-is-doing-like-mad",
+  },
 ];
 
 const Musings = () => {
