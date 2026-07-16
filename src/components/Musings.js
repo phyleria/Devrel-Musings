@@ -55,7 +55,7 @@ const articles = [
   {
     title: "God Knows What He Is Doing Like Mad",
     category: "",
-    image: process.env.PUBLIC_URL + "/assets/GodKnows.JPG",
+    image: process.env.PUBLIC_URL + "/assets/GodKnows.jpg",
     url: "/blog/God-knows-what-He-is-doing-like-mad",
   },
 ];
