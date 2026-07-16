@@ -804,16 +804,10 @@ I decided to look for venture fellow roles or internships so that I can somehow 
 just use the moment to learn as much as I can, but not everyone seems to agree with that. They believe that I am 
 underselling myself, but the thing is, first of all, transitioning was a gut feeling and getting into the industry 
 in a junior role is a gut feeling as well. A gut feeling that I have tried to ignore so much because, like someone said, 
-I am coming from a whole Head of Marketing role… and just to digress, I want it to read ‘Head of Developer Ecosystem and 
-Marketing’ because managing the developer ecosystem was majorly the part of my previous role that I loved, but it seems 
-most people only focus the Marketing part. Don't get me wrong, I loved learning the ropes of marketing, but I wouldn't 
-say I was skilled at it because I feel like major parts of marketing depend on things you can't control, and I love seeing 
-the impact of my work mirror the work I have put in, but in marketing it's not always the case.<br /><br />
-Now back to where I was… so most people believe I am underselling myself, but the truth is I don't really care, and 
-I think this is a risky thing for someone like me. The reason is, this is not only my life and there are loving people 
-who have high expectations of me, and going to a junior position where I probably won't be earning much, or earning 
-anything at all, will be a disappointment to them. And I get it, but the truth is I have almost always loved living 
-unconventionally, I’ve trusted my gut and followed the things I love, and it hasn’t always been smooth sailing in my 
+I can't go lower than my previous role. But the truth is I don't really care, and I think this is a risky thing for someone like me. 
+The reason is, this is not only my life and there are loving people who have high expectations of me, and going to a junior position 
+where I probably won't be earning much, or earning anything at all, will be a disappointment to them. And I get it, but I have 
+ always loved living unconventionally, I’ve trusted my gut and followed the things I love, and it hasn’t always been smooth sailing in my 
 relationships with my loved ones. And so I'm back once again on that road where I have to defy their expectations of me, 
 and this time it won't only be my loved ones, it will be my friends too. <br /><br />
       
