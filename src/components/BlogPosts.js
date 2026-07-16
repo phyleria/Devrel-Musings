@@ -945,7 +945,11 @@ export const GodKnowsWhatHeIsDoingLikeMad = () => (
     <h1 className="text-3xl font-bold mb-4">God Knows What He Is Doing Like Mad</h1>
     <p className="text-lg mt-4 text-gray-600">
         <hr className="border-2 border-gray-300" />    <br />
-A few months ago, I wrote this: https://phylis-atieno.vercel.app/blog/julie-julia-and-me <br/><br/>
+A few months ago, I wrote this: <a
+          href="https://phylis-atieno.vercel.app/blog/julie-julia-and-me"
+          className="text-blue-500 underline"
+        > https://phylis-atieno.vercel.app/blog/julie-julia-and-me
+        </a>  <br/><br/>
 I wrote it while I was in a very, very confused state. I didn’t know what I was doing, and I felt stupid. 
 Stupid for thinking I even had the liberty to pursue something simply because I thought it would be something 
 I loved doing. Just a few weeks after I wrote that article, I received a rejection from a role I thought I had 
