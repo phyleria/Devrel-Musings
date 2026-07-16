@@ -33,18 +33,23 @@ const Home = () => {
                 Hi, I'm Phylis 👋🏽
               </h1>
               <p className="text-sm text-gray-700 leading-relaxed mb-2">
-                • I love doing a lot of things, and someone (I look up to) once asked me, "Why not just master one?" 
-                But I think I have the time so why not? (at least for now, lol).
+                • I love doing a lot of things, and someone I look up to once asked me, "Why not just master one?" But I think I have the time, so why not? (At least for now 😂).
                 <br/><br/>
-                • I have been in DevRel for about 3 years and I sometimes share my experiences in the 
-                "Learnings from DevRel" page, if you'd like to check it out.
+                • I currently work in venture capital, focusing on pre-seed investments in African financial infrastructure - cool word for fintech :)
                 <br/><br/>
-                • As I transition to VC, I write deep dives on my Medium account and you can read them <a href="https://medium.com/@atienophyllis" target="_blank" rel="noopener noreferrer"><strong>here</strong></a>.
+                • I write deep dives on my Medium account about VC, startups, Africa's financial landscape and you can read them <a href="https://medium.com/@atienophyllis" target="_blank" rel="noopener noreferrer"><u>here</u></a>.
+                <br/><br/>
+                • Before VC, I spent  three years in Developer Relations. It shaped how I think about communities, ecosystems, and 
+                building products people genuinely love. You can find some of those experiences in the <u>Learnings from DevRel</u> section.
+                <br/><br/>
+                • If you would like to know what I think of during random times of the day, check my <u>Musings</u> page. 
                 <br/><br/>
                 • I love music!!! I honestly don't think I say it enough. Anyway, I write and play when I have bursts of creativity 
-                (which seemed a lot more before adulting hit me). You'll find some of the recordings in the "Music" page.
+                (which seemed a lot more before adulting hit me). You'll find some of the recordings in the <u>Music</u> page.
                 <br/><br/>
-                • I adore writing, and one day, I'd love to retire as a writer, documenting different cultures. 
+                • I also love reading, check out <u>My Reads</u> page for reviews!
+                <br/><br/>
+                • More than anything, I love writing, and one day, I'd love to retire as a writer, documenting different cultures. 
                 I want to start with the Luo culture, then learn more about the Mali Empire. After that, who knows?
               </p>
             </div>
