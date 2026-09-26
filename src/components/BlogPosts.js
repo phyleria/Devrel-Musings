@@ -1038,9 +1038,9 @@ Maathai, Mahmood Mamdani and Barack Obama’s father.  <br/><br/>
 
 In his chapter “Superwomen,” which I’ve discovered is not only a personal favourite but 
 also one that almost every other woman reading the book seems to love, Ngunyi doesn't 
-write about women as people waiting to be rescued; he writes about them as people who 
-built economies, helped fight for freedom and held families together, and he carries that 
-same view into his criticism of how the investment world thinks about women-led businesses.
+write about women not as 'damsels in distress' but as people whobuilt economies, helped 
+fight for freedom and held families together, and he carries that same view into his 
+criticism of how the investment world thinks about women-led businesses.
 In the investment world, investors talk about “gender lens investing,” which he argues is 
 often built on the assumption that women can do enough to be supported, but never enough 
 to do something great. I first came across the gender lens investing argument as a 
