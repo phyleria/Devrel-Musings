@@ -984,8 +984,8 @@ export const FrontierMadness = () => (
 I'll confess, when I started Frontier Madness, I spent a lot of time trying to understand 
 how all the different threads were coming together. From the first few pages, I felt that 
 I needed to understand the foundation of the story before I could fully appreciate everything 
-that came after. PK writes in a way that doubles back, picking up a thread two pages after 
-he dropped it, and as a scattered thinker myself, I found myself needing to hold on to what felt familiar, 
+that came after. PK writes in a way that doubles back, picking up a thread two pages later, and 
+as a scattered thinker myself, I found myself needing to hold on to what felt familiar, 
 which was the picture he was gradually painting of “Paradise.” This is his name for the Nyandarua 
 Mountain Ranges and the Mt. Kenya region, but he also uses it to speak about the many other paradises
  across Kenya and the continent. It is a quiet, captivating place that the colonizers found, wanted, 
