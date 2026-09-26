@@ -984,7 +984,7 @@ export const FrontierMadness = () => (
 I'll confess, I began Frontier Madness a little lost because Ngunyi writes in a way that doubles 
 back, picking up a thread two pages after he dropped it. As a scattered thinker myself, I 
 spent the first chapter trying to figure out where he was taking me. What I could hold on 
-to was the image at the centre of it all - Paradise. This is his name for our land (that I also came to 
+to was the image he was gradually painting which was Paradise. This is his name for our land (a name I've also come to 
 adopt), a quiet and captivating place that the British found, wanted, and 
 turned into chaos. <br/><br/>
 The moment things started to come together for me was when he talked about our giraffes. 
