@@ -1060,7 +1060,7 @@ can tell when their framework doesn't fit. <br/><br/>
 
 His stories of childhood took me back to a version of my own childhood that feels very far 
 away from the way many children grow up now. I grew up in a small town where children
-rarely learnt how to speak Swahili until they were a bit older, and when they did, it was 
+didn't learn how to speak Swahili until they were a bit older, and when they did, it was 
 usually a patchy mix of Luo and Swahili. I was proud when I finally learnt it, and English
 came next, although I only spoke it confidently in Class 8. Looking back now, I realise 
 I should have been just as proud to know my mother tongue then as I am now. His stories 
