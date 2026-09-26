@@ -992,7 +992,7 @@ Mountain Ranges and the Mt. Kenya region, but he also uses it to speak about the
  and turned into chaos.
 
  <br/><br/>
-The moment I started getting even more excited about the book, and began to resonate with it more and more, 
+The moment I started getting even more excited about the book, and found myself resonating with it more and more, 
 was when he talked about our giraffes. Ngunyi describes the British in Kenya in the 1950s as fencing giraffes 
 into private land because, they claimed, the animals were going “extinct.” I laughed, because not long before, 
 I had stood at the Giraffe Centre in Nairobi asking myself almost the same question. Who decides to “rescue” an 
