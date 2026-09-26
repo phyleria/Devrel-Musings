@@ -1072,7 +1072,8 @@ gated apartments.  <br/><br/>
 That ability to make his own experiences feel like an invitation to examine mine was 
 something I found even in the shortest chapter, about how his parents met, which left me 
 thinking about whether I am always chasing the next thing or whether I am grounded in what 
-makes me content, whatever the season. 
+makes me content, whatever the season. <br/><br/>
+
 In Chapter 12, “Voice of America,” he tackles the question of who gets to see, define and 
 tell our story, writing about the Mau Mau uprising, when colonial helicopters circled the 
 forests announcing that the freedom fighters had lost, even when they hadn't, in an attempt
