@@ -984,7 +984,7 @@ export const FrontierMadness = () => (
 I'll confess, when I started Frontier Madness, I spent a lot of time trying to understand 
 how all the different threads were coming together. From the first few pages, I felt that 
 I needed to understand the foundation of the story before I could fully appreciate everything 
-that came after. Ngunyi writes in a way that doubles back, picking up a thread two pages after 
+that came after. PK writes in a way that doubles back, picking up a thread two pages after 
 he dropped it, and as a scattered thinker myself, I found myself needing to hold on to what felt familiar, 
 which was the picture he was gradually painting of “Paradise.” This is his name for the Nyandarua 
 Mountain Ranges and the Mt. Kenya region, but he also uses it to speak about the many other paradises
@@ -993,12 +993,12 @@ Mountain Ranges and the Mt. Kenya region, but he also uses it to speak about the
 
  <br/><br/>
 The moment I started getting even more excited about the book, and found myself resonating with it more and more, 
-was when he talked about our giraffes. Ngunyi describes the British in Kenya in the 1950s as fencing giraffes 
+was when he talked about our giraffes. PK describes the British in Kenya in the 1950s as fencing giraffes 
 into private land because, they claimed, the animals were going “extinct.” I laughed, because not long before, 
 I had stood at the Giraffe Centre in Nairobi asking myself almost the same question. Who decides to “rescue” an 
 animal by keeping it at home? And why was that acceptable when they were the ones doing it?
 
-From there, I let the book carry me. By the end, I understood that piecing the story together is part of Ngunyi’s 
+From there, I let the book carry me. By the end, I understood that piecing the story together is part of PK’s 
 method. He moves between family history, economics, childhood, religion and geopolitics because, in his telling, 
 they are all part of the same story.
  <br/><br/>
@@ -1037,7 +1037,7 @@ in school. I had no idea that the opportunities he created reached people like W
 Maathai, Mahmood Mamdani and Barack Obama’s father.  <br/><br/>
 
 In his chapter “Superwomen,” which I’ve discovered is not only a personal favourite but 
-also one that almost every other woman reading the book seems to love, Ngunyi doesn't 
+also one that almost every other woman reading the book seems to love, PK doesn't 
 write about women as 'damsels in distress' but as people who helped build economies and 
 fight for freedom, and he carries that same view into his criticism of how the investment 
 world thinks about women-led businesses.In the investment world, investors talk about 
