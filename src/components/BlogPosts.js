@@ -1059,7 +1059,7 @@ advice is to learn both the language of Paradise and the language of the foreign
 can tell when their framework doesn't fit. <br/><br/>
 
 His stories of childhood took me back to a version of my own childhood that feels very far 
-away from the way many children grow up now. I grew up in a small rural town where children
+away from the way many children grow up now. I grew up in a small town where children
 rarely learnt how to speak Swahili until they were a bit older, and when they did, it was 
 usually a patchy mix of Luo and Swahili. I was proud when I finally learnt it, and English
 came next, although I only spoke it confidently in Class 8. Looking back now, I realise 
