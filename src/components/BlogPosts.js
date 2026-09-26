@@ -981,12 +981,17 @@ export const FrontierMadness = () => (
     <h1 className="text-3xl font-bold mb-4">Frontier Madness</h1>
     <p className="text-lg mt-4 text-gray-600">
         <hr className="border-2 border-gray-300" />    <br />
-I'll confess, I began Frontier Madness a little lost because Ngunyi writes in a way that doubles 
-back, picking up a thread two pages after he dropped it. As a scattered thinker myself, I 
-spent the first chapter trying to figure out where he was taking me. What I could hold on 
-to was the image he was gradually painting which was Paradise. This is his name for our land (a name I've also come to 
-adopt), a quiet and captivating place that the British found, wanted, and 
-turned into chaos. <br/><br/>
+I'll confess, when I started Frontier Madness, I spent a lot of time trying to understand 
+how all the different threads were coming together. From the first few pages, I felt that 
+I needed to understand the foundation of the story before I could fully appreciate everything 
+that came after. Ngunyi writes in a way that doubles back, picking up a thread two pages after 
+he dropped it, and as a scattered thinker myself, I found myself holding on to what felt familiar, 
+which was the picture he was gradually painting of “Paradise.” This is his name for the Nyandarua 
+Mountain Ranges and the Mt. Kenya region, but he also uses it to speak about the many other paradises
+ across Kenya and the continent. It is a quiet, captivating place that the colonizers found, wanted, 
+ and turned into chaos.
+
+ <br/><br/>
 The moment things started to come together for me was when he talked about our giraffes. 
 Ngunyi describes the British in Kenya then as fencing giraffes into private land because, 
 they claimed, the animals were going ‘extinct.’ I laughed, because not long before, I had 
