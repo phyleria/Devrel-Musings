@@ -974,3 +974,124 @@ So when I say God knows what He’s doing, He knows what He’s doing like madd.
 
 
 );
+export const FrontierMadness = () => (
+    <BlogLayout>
+
+  <div className="max-w-5xl mx-auto p-5 bg-[#f6f4ef] mt-5 mb-20 rounded-lg shadow-lg">
+    <h1 className="text-3xl font-bold mb-4">Frontier Madness</h1>
+    <p className="text-lg mt-4 text-gray-600">
+        <hr className="border-2 border-gray-300" />    <br />
+I'll confess, I began Frontier Madness a little lost. Ngunyi writes in a way that doubles 
+back, picking up a thread two pages after he dropped it. As a scattered thinker myself, I 
+spent the first chapter trying to figure out where he was taking me. What I could hold on 
+to was the image at the centre of it all - Paradise. This is his name (that I also came to 
+adopt) for our land, a quiet and captivating place that the British found, wanted, and 
+turned into chaos. <br/><br/>
+The moment things started to come together for me was when he talked about our giraffes. 
+Ngunyi describes the British in Kenya then as fencing giraffes into private land because, 
+they claimed, the animals were going ‘extinct.’ I laughed, because not long before, I had 
+stood at the Giraffe Centre in Nairobi asking myself almost the same question. Who decides 
+to “rescue” an animal by keeping it at home? And why was that acceptable when they were the ones doing it?
+From there, I let the book carry me. By the end, I understood that piecing the story 
+together is part of Ngunyi’s method. He moves between family history, economics, childhood,
+religion and geopolitics because, in his telling, they are all part of the same story.  <br/><br/>
+
+That story is mostly about what was taken from us and what we still haven't taken back. 
+The Paradise he describes was wealthy, with enough to provide for whole communities before 
+colonial rule brought chaos, and that damage didn't end at independence. After independence,
+some African governments, eager to please foreign partners, held back businesses built by 
+former freedom fighters who had been detained, among them his own grandfather. Part of the
+reason was to limit how much influence those businessmen could have on politics. Then, 
+in the 1980s and 90s, Western financial institutions took a similar approach with whole 
+economies. I laughed when he pointed to the ‘McKenzie’s’ playbook of cutting budgets and 
+payroll. If you know, you know  <br/><br/>
+In Chapter 15 he talks about the IMF and the World Bank, the two institutions African 
+governments have turned to for loans for decades. He calls the chapter “Betton Woods,” a 
+play on Bretton Woods (I’m still trying to figure out why), the 1944 conference where both 
+were created. He compares the way they lend to Africa to the crack epidemic in 1980s 
+Washington. The loans come in small doses, often enough that we keep coming back for the 
+next one, but never enough to leave us clear-headed enough to find our own way out. 
+For contrast, he points to South Korea, a country that ignored their advice, built its economy 
+its own way, and prospered.  <br/><br/>
+
+From there, he turns to Africa’s natural resources and how little of their value has 
+stayed with the people who live around them. These chapters were the hardest to read and 
+probably the ones I learned the most from. Congo is the richest country in the world by 
+the minerals beneath its soil, yet it is treated as one of the poorest. Closer to home, 
+he tells the story of Lake Magadi in Kenya, which passed from its local people to the 
+British Crown, then to British multinationals, and eventually to an Indian conglomerate. 
+At no point did it benefit the people living beside it.  <br/><br/>
+
+The book introduced me properly to Tom Mboya, the independence-era leader who organised 
+scholarships for young Kenyans to study in America. Reading about him, I felt a kind of 
+borrowed pride, as though I had known him. I learned more about him here than I ever did 
+in social studies, and found myself asking who actually chose the figures we were taught 
+in school. I had no idea that the opportunities he created reached people like Wangari 
+Maathai, Mahmood Mamdani and Barack Obama’s father.  <br/><br/>
+
+In his chapter “Superwomen,” which I’ve discovered is not only a personal favourite but 
+also one that almost every other woman reading the book seems to love, Ngunyi doesn't 
+write about women as people waiting to be rescued; he writes about them as people who 
+built economies, helped fight for freedom and held families together, and he carries that 
+same view into his criticism of how the investment world thinks about women-led businesses.
+In the investment world, investors talk about “gender lens investing,” which he argues is 
+often built on the assumption that women can do enough to be supported, but never enough 
+to do something great. I first came across the gender lens investing argument as a 
+newcomer to VC, sitting quietly in an investment book club with very little to add, and 
+having worked in the space for a while now, I understand the argument much better. <br/><br/>
+
+He also brings the same criticism to the startup ecosystem where he says foreign investors 
+can look at a local trade network that has worked for generations and see only an “informal sector” 
+waiting to be disrupted, when in reality, these businesses have survived because they understand 
+the people and societies they serve. They may need better tools, or improvements to the way 
+they operate, but those solutions have to come from an understanding of what already works 
+rather than from assuming that everything needs to be rebuilt. He makes a similar argument 
+about people who study MBAs and return to Africa with the frameworks and ways of thinking 
+they were taught, then apply them here without questioning whether they actually fit. His 
+advice is to learn both the language of Paradise and the language of the foreigner, so you 
+can tell when their framework doesn't fit. <br/><br/>
+
+His stories of childhood took me back to a version of my own childhood that feels very far 
+away from the way many children grow up now. I grew up in a small rural town where children
+rarely learnt how to speak Swahili until they were a bit older, and when they did, it was 
+usually a patchy mix of Luo and Swahili. I was proud when I finally learnt it, and English
+came next, although I only spoke it confidently in Class 8. Looking back now, I realise 
+I should have been just as proud to know my mother tongue then as I am now. His stories 
+of playing outside, building things and making his own football reminded me of doing the 
+same, although making toy cars was somehow left to the boys, so I never took part, and I 
+found myself wondering what childhood feels like now for children growing up in Nairobi's
+gated apartments.  <br/><br/>
+
+That ability to make his own experiences feel like an invitation to examine mine was 
+something I found even in the shortest chapter, about how his parents met, which left me 
+thinking about whether I am always chasing the next thing or whether I am grounded in what 
+makes me content, whatever the season. 
+In Chapter 12, “Voice of America,” he tackles the question of who gets to see, define and 
+tell our story, writing about the Mau Mau uprising, when colonial helicopters circled the 
+forests announcing that the freedom fighters had lost, even when they hadn't, in an attempt
+to scare them into surrendering. It brings home the idea that the loudest version of 
+events isn't necessarily the true one, something that feels even more relevant now that 
+algorithms have so much influence over what we see, what gets repeated and, eventually, 
+what we come to believe.  <br/><br/>
+
+I met PK on 11 September, when I was midway through the book and still trying to understand
+all the different threads he had woven together, so I was quietly hoping I wouldn't babble
+when he asked what I had found most interesting. When he did, I said Tom Mboya's story, 
+naturally, and when he asked if I had any questions for him, I realised I hadn't prepared
+a single one. Now that I've finished the book, I have a few. Can we really ungentrify 
+our markets with money that comes from the same places that gentrified them? South Korea
+ignored the West's advice, but it had a state strong enough to do so. Is the lesson for
+us to ignore the advice, or to first build institutions strong enough to afford to? 
+And, because I still can't let it go, why “Betton Woods”?  <br/><br/>
+
+Perhaps the best way to close this rather sporadic personal recap of the book is with a 
+line I loved: “Paradise doesn't belong to the cautious, it belongs to the ones who bite 
+the triceps of the devil and keep running.”
+
+    </p>
+    
+  </div>
+    </BlogLayout>
+
+
+);

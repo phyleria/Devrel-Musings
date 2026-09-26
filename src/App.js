@@ -8,7 +8,7 @@ import Music from "./components/Music";
 import Reads from "./components/Reads";
 
 
-import { FaithChanges, DX, OF, SamburuGirls, There, Firsts, IteratingDX, Who, Prayed, Homegoing, Julie, WhatDoesFeelingAliveMean, ThingsFallApart, EveryDayIsForTheThief, GodKnowsWhatHeIsDoingLikeMad } from "./components/BlogPosts";
+import { FaithChanges, DX, OF, SamburuGirls, There, Firsts, IteratingDX, Who, Prayed, Homegoing, Julie, WhatDoesFeelingAliveMean, ThingsFallApart, EveryDayIsForTheThief, GodKnowsWhatHeIsDoingLikeMad, FrontierMadness } from "./components/BlogPosts";
 
 function App() {
   return (
@@ -38,10 +38,11 @@ function App() {
 <Route path="/blog/what-does-feeling-alive-mean" element={<WhatDoesFeelingAliveMean />} />
 <Route path="/blog/God-knows-what-He-is-doing-like-mad" element={<GodKnowsWhatHeIsDoingLikeMad />} />
 
-
 <Route path="/reads/homegoing" element={<Homegoing />} />
 <Route path="/reads/things-fall-apart" element={<ThingsFallApart />} />
 <Route path="/reads/every-day-is-for-the-thief" element={<EveryDayIsForTheThief />} />
+<Route path="/reads/frontier-madness" element={<FrontierMadness />} />
+
 
       </Routes>
     </Router>

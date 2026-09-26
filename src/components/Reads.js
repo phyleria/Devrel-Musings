@@ -25,6 +25,13 @@ const books = [
     image: process.env.PUBLIC_URL + "/assets/Everyday is for the thief.jpg",
     url: "/reads/every-day-is-for-the-thief",
   },
+  {
+    title: "Frontier Madness",
+    author: "PK Ngunyi",
+    rating: "⭐⭐⭐⭐⭐",
+    image: process.env.PUBLIC_URL + "/assets/Frontiermadness.png",
+    url: "/reads/frontier-madness",
+  },
 ];
 
 const Reads = () => {

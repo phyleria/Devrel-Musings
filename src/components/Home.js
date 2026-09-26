@@ -35,7 +35,7 @@ const Home = () => {
               <p className="text-sm text-gray-700 leading-relaxed mb-2">
                 • I love doing a lot of things, and someone I look up to once asked me, "Why not just master one?" But I think I have the time, so why not? (At least for now 😂).
                 <br/><br/>
-                • I currently work in venture capital, focusing on pre-seed investments in African financial infrastructure - cool word for fintech :)
+                • I currently work in venture capital, focusing on pre-seed and seed investments in African financial infrastructure - cool word for fintech :)
                 <br/><br/>
                 • I write deep dives on my Medium account about VC, startups, Africa's financial landscape and you can read them <a href="https://medium.com/@atienophyllis" target="_blank" rel="noopener noreferrer"><u>here</u></a>.
                 <br/><br/>
