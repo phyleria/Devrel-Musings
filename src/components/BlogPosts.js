@@ -981,11 +981,11 @@ export const FrontierMadness = () => (
     <h1 className="text-3xl font-bold mb-4">Frontier Madness</h1>
     <p className="text-lg mt-4 text-gray-600">
         <hr className="border-2 border-gray-300" />    <br />
-I'll confess, I began Frontier Madness a little lost. Ngunyi writes in a way that doubles 
+I'll confess, I began Frontier Madness a little lost because Ngunyi writes in a way that doubles 
 back, picking up a thread two pages after he dropped it. As a scattered thinker myself, I 
 spent the first chapter trying to figure out where he was taking me. What I could hold on 
-to was the image at the centre of it all - Paradise. This is his name (that I also came to 
-adopt) for our land, a quiet and captivating place that the British found, wanted, and 
+to was the image at the centre of it all - Paradise. This is his name for our land (that I also came to 
+adopt), a quiet and captivating place that the British found, wanted, and 
 turned into chaos. <br/><br/>
 The moment things started to come together for me was when he talked about our giraffes. 
 Ngunyi describes the British in Kenya then as fencing giraffes into private land because, 
