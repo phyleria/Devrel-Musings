@@ -1082,7 +1082,7 @@ events isn't necessarily the true one, something that feels even more relevant n
 algorithms have so much influence over what we see, what gets repeated and, eventually, 
 what we come to believe.  <br/><br/>
 
-__________
+__________<br/><br/>
 
 I met PK on 11 September, when I was midway through the book and still trying to understand
 all the different threads he had woven together, so I was quietly hoping I wouldn't babble
