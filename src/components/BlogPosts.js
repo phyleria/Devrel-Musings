@@ -955,10 +955,10 @@ would NEVER question Him. And after that day, I continued as if nothing had happ
 Now fast forward to today, I was having a conversation with my General Partner (yes, it’s almost three months 
 into my new role), and when I tell you God knows what He’s doing? He knows what He’s doing like madd. <br/><br/>
 We were chatting about my experience so far, how I’m finding my role, and everything in between. Somewhere in 
-the conversation, we started talking about why she started the fund and why I decided to transition from tech to 
-venture capital. Before I could even answer, she told me she had asked because she was envious that I got to simply 
-change direction and pursue what I wanted, instead of being drawn to the comfortable jobs and the expected life path. 
-Then she asked me what decisions led me to the fund. <br/><br/>
+the conversation, we started talking about why she started the fund (which I found interesting) and asked why I 
+decided to transition from tech to venture capital. She told me she had asked because it was interesting how 
+I got to simply change direction and pursue what I wanted, instead of being drawn to the comfortable jobs and the expected life path. 
+ <br/><br/>
 Honestly, I didn’t know what to say. But the answer is in the last paragraph of that article I had previously written. What I never want is to one day think about what might have been if I had just done something.  <br/><br/>
 We talked about a lot of things, and maybe one day I’ll write about that conversation. But as we were speaking, I knew, 
 100%, that none of this was by chance. Before writing this, I went back and looked at my dream items list that I had 
